@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'rancher-icons';
-	src:url('fonts/rancher-icons.eot?-m05pil');
-	src:url('fonts/rancher-icons.eot?#iefix-m05pil') format('embedded-opentype'),
-		url('fonts/rancher-icons.ttf?-m05pil') format('truetype'),
-		url('fonts/rancher-icons.woff?-m05pil') format('woff'),
-		url('fonts/rancher-icons.svg?-m05pil#rancher-icons') format('svg');
+	src:url('fonts/rancher-icons.eot?-3p7q7l');
+	src:url('fonts/rancher-icons.eot?#iefix-3p7q7l') format('embedded-opentype'),
+		url('fonts/rancher-icons.ttf?-3p7q7l') format('truetype'),
+		url('fonts/rancher-icons.woff?-3p7q7l') format('woff'),
+		url('fonts/rancher-icons.svg?-3p7q7l#rancher-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,12 +23,168 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-check:before {
+.icon-businessuser:before {
 	content: "\e600";
 }
-.icon-box:before {
+.icon-linux:before {
 	content: "\e601";
 }
-.icon-cloud:before {
+.icon-refresh:before {
 	content: "\e602";
+}
+.icon-spin:before {
+	content: "\e603";
+}
+.icon-tachometer:before {
+	content: "\e604";
+}
+.icon-terminal2:before {
+	content: "\e606";
+}
+.icon-copy:before {
+	content: "\e607";
+}
+.icon-externallink:before {
+	content: "\e608";
+}
+.icon-github:before {
+	content: "\e609";
+}
+.icon-windows:before {
+	content: "\e60a";
+}
+.icon-apple:before {
+	content: "\e60b";
+}
+.icon-circle:before {
+	content: "\e60c";
+}
+.icon-adjust:before {
+	content: "\e60d";
+}
+.icon-edit:before {
+	content: "\e60e";
+}
+.icon-trash:before {
+	content: "\e60f";
+}
+.icon-users:before {
+	content: "\e610";
+}
+.icon-share:before {
+	content: "\e611";
+}
+.icon-tag:before {
+	content: "\e612";
+}
+.icon-touchtonephone:before {
+	content: "\e613";
+}
+.icon-target:before {
+	content: "\e614";
+}
+.icon-thumbnails:before {
+	content: "\e615";
+}
+.icon-tornado:before {
+	content: "\e616";
+}
+.icon-play:before {
+	content: "\e617";
+}
+.icon-plus:before {
+	content: "\e618";
+}
+.icon-record:before {
+	content: "\e619";
+}
+.icon-medicalcross:before {
+	content: "\e61a";
+}
+.icon-openfolder:before {
+	content: "\e61b";
+}
+.icon-pause:before {
+	content: "\e61c";
+}
+.icon-microchip:before {
+	content: "\e61d";
+}
+.icon-microwave:before {
+	content: "\e61e";
+}
+.icon-link:before {
+	content: "\e620";
+}
+.icon-logout:before {
+	content: "\e621";
+}
+.icon-notification:before {
+	content: "\e622";
+}
+.icon-info:before {
+	content: "\e623";
+}
+.icon-layergroup:before {
+	content: "\e624";
+}
+.icon-layers:before {
+	content: "\e625";
+}
+.icon-hdd:before {
+	content: "\e626";
+}
+.icon-headphone:before {
+	content: "\e627";
+}
+.icon-help:before {
+	content: "\e628";
+}
+.icon-globe:before {
+	content: "\e629";
+}
+.icon-home:before {
+	content: "\e62a";
+}
+.icon-files:before {
+	content: "\e62b";
+}
+.icon-folder:before {
+	content: "\e62c";
+}
+.icon-fork:before {
+	content: "\e62d";
+}
+.icon-close:before {
+	content: "\e62e";
+}
+.icon-download:before {
+	content: "\e62f";
+}
+.icon-file:before {
+	content: "\e630";
+}
+.icon-check:before {
+	content: "\e631";
+}
+.icon-cloud:before {
+	content: "\e632";
+}
+.icon-compass:before {
+	content: "\e633";
+}
+.icon-arrow-down:before {
+	content: "\e634";
+}
+.icon-arrow-right:before {
+	content: "\e635";
+}
+.icon-box:before {
+	content: "\e636";
+}
+.icon-database:before {
+	content: "\e637";
+}
+.icon-alert:before {
+	content: "\e638";
 }
