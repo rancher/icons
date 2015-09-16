@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'rancher-icons';
-	src:url('fonts/rancher-icons.eot?-1illlb');
-	src:url('fonts/rancher-icons.eot?#iefix-1illlb') format('embedded-opentype'),
-		url('fonts/rancher-icons.ttf?-1illlb') format('truetype'),
-		url('fonts/rancher-icons.woff?-1illlb') format('woff'),
-		url('fonts/rancher-icons.svg?-1illlb#rancher-icons') format('svg');
+	src:url('fonts/rancher-icons.eot?s7bqai');
+	src:url('fonts/rancher-icons.eot?#iefixs7bqai') format('embedded-opentype'),
+		url('fonts/rancher-icons.ttf?s7bqai') format('truetype'),
+		url('fonts/rancher-icons.woff?s7bqai') format('woff'),
+		url('fonts/rancher-icons.svg?s7bqai#rancher-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -38,6 +38,9 @@
 .icon-plus:before {
 	content: "\e618";
 }
+.icon-minus:before {
+	content: "\e639";
+}
 .icon-check:before {
 	content: "\e631";
 }
@@ -52,6 +55,12 @@
 }
 .icon-fork:before {
 	content: "\e62d";
+}
+.icon-chevron-up:before {
+	content: "\e613";
+}
+.icon-chevron-down:before {
+	content: "\e61f";
 }
 .icon-logout:before {
 	content: "\e621";
