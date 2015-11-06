@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'rancher-icons';
-	src:url('fonts/rancher-icons.eot?p7bha6');
-	src:url('fonts/rancher-icons.eot?p7bha6#iefix') format('embedded-opentype'),
-		url('fonts/rancher-icons.ttf?p7bha6') format('truetype'),
-		url('fonts/rancher-icons.woff?p7bha6') format('woff'),
-		url('fonts/rancher-icons.svg?p7bha6#rancher-icons') format('svg');
+	src:url('fonts/rancher-icons.eot?gc4vyf');
+	src:url('fonts/rancher-icons.eot?gc4vyf#iefix') format('embedded-opentype'),
+		url('fonts/rancher-icons.ttf?gc4vyf') format('truetype'),
+		url('fonts/rancher-icons.woff?gc4vyf') format('woff'),
+		url('fonts/rancher-icons.svg?gc4vyf#rancher-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -113,7 +113,7 @@
 .icon-history:before {
 	content: "\e927";
 }
-.icon-rerfresh:before {
+.icon-refresh:before {
 	content: "\e947";
 }
 .icon-success:before {
