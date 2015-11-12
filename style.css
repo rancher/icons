@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'rancher-icons';
-	src:url('fonts/rancher-icons.eot?gc4vyf');
-	src:url('fonts/rancher-icons.eot?gc4vyf#iefix') format('embedded-opentype'),
-		url('fonts/rancher-icons.ttf?gc4vyf') format('truetype'),
-		url('fonts/rancher-icons.woff?gc4vyf') format('woff'),
-		url('fonts/rancher-icons.svg?gc4vyf#rancher-icons') format('svg');
+	src:url('fonts/rancher-icons.eot?prhqun');
+	src:url('fonts/rancher-icons.eot?prhqun#iefix') format('embedded-opentype'),
+		url('fonts/rancher-icons.ttf?prhqun') format('truetype'),
+		url('fonts/rancher-icons.woff?prhqun') format('woff'),
+		url('fonts/rancher-icons.svg?prhqun#rancher-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -80,6 +80,9 @@
 .icon-play:before {
 	content: "\e943";
 }
+.icon-stop:before {
+	content: "\e933";
+}
 .icon-download:before {
 	content: "\e914";
 }
@@ -125,11 +128,17 @@
 .icon-plus-circle:before {
 	content: "\e944";
 }
+.icon-x-circle:before {
+	content: "\e931";
+}
 .icon-plus-square:before {
 	content: "\e945";
 }
 .icon-minus-square:before {
 	content: "\e93e";
+}
+.icon-x-square:before {
+	content: "\e932";
 }
 .icon-square:before {
 	content: "\e94e";
