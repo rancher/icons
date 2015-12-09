@@ -1,16 +1,17 @@
 @font-face {
 	font-family: 'rancher-icons';
-	src:url('fonts/rancher-icons.eot?6n002d');
-	src:url('fonts/rancher-icons.eot?6n002d#iefix') format('embedded-opentype'),
-		url('fonts/rancher-icons.ttf?6n002d') format('truetype'),
-		url('fonts/rancher-icons.woff?6n002d') format('woff'),
-		url('fonts/rancher-icons.svg?6n002d#rancher-icons') format('svg');
+	src:url('fonts/rancher-icons.eot?osqtwq');
+	src:url('fonts/rancher-icons.eot?osqtwq#iefix') format('embedded-opentype'),
+		url('fonts/rancher-icons.ttf?osqtwq') format('truetype'),
+		url('fonts/rancher-icons.woff?osqtwq') format('woff'),
+		url('fonts/rancher-icons.svg?osqtwq#rancher-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 .icon {
-	font-family: 'rancher-icons';
+    /* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'rancher-icons' !important;
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
@@ -80,11 +81,11 @@
 .icon-play:before {
 	content: "\e943";
 }
-.icon-download:before {
-	content: "\e914";
-}
 .icon-stop:before {
 	content: "\e933";
+}
+.icon-download:before {
+	content: "\e914";
 }
 .icon-upload:before {
 	content: "\e961";
@@ -157,6 +158,9 @@
 }
 .icon-network:before {
 	content: "\e940";
+}
+.icon-vm:before {
+	content: "\e935";
 }
 .icon-box:before {
 	content: "\e904";
