@@ -1,318 +1,326 @@
 @font-face {
-	font-family: 'rancher-icons';
-	src:url('fonts/rancher-icons.eot?jbgtcg');
-	src:url('fonts/rancher-icons.eot?jbgtcg#iefix') format('embedded-opentype'),
-		url('fonts/rancher-icons.ttf?jbgtcg') format('truetype'),
-		url('fonts/rancher-icons.woff?jbgtcg') format('woff'),
-		url('fonts/rancher-icons.svg?jbgtcg#rancher-icons') format('svg');
-	font-weight: normal;
-	font-style: normal;
+    font-family: 'rancher-icons';
+    src:
+        url('fonts/rancher-icons.ttf?fqoif4') format('truetype'),
+        url('fonts/rancher-icons.woff?fqoif4') format('woff'),
+        url('fonts/rancher-icons.svg?fqoif4#rancher-icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 .icon {
     /* use !important to prevent issues with browser extensions that change fonts */
-	font-family: 'rancher-icons' !important;
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	line-height: 1;
+    font-family: 'rancher-icons' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
 
-	/* Better Font Rendering =========== */
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .icon-circle:before {
-	content: "\e90c";
+    content: "\e90c";
 }
 .icon-adjust:before {
-	content: "\e900";
+    content: "\e900";
 }
 .icon-circle-o:before {
-	content: "\e90b";
+    content: "\e90b";
 }
 .icon-dot-diagonalfill:before {
-	content: "\e913";
+    content: "\e913";
 }
 .icon-dot-circlefill:before {
-	content: "\e912";
+    content: "\e912";
 }
 .icon-target:before {
-	content: "\e952";
+    content: "\e952";
 }
 .icon-spinner:before {
-	content: "\e94d";
+    content: "\e94d";
 }
 .icon-check:before {
-	content: "\e906";
+    content: "\e906";
 }
 .icon-x:before {
-	content: "\e965";
+    content: "\e965";
 }
 .icon-close:before {
-	content: "\e965";
+    content: "\e965";
 }
 .icon-chevron-down:before {
-	content: "\e907";
+    content: "\e907";
 }
 .icon-chevron-left:before {
-	content: "\e908";
+    content: "\e908";
 }
 .icon-chevron-right:before {
-	content: "\e909";
+    content: "\e909";
 }
 .icon-chevron-up:before {
-	content: "\e90a";
+    content: "\e90a";
 }
 .icon-plus:before {
-	content: "\e93b";
+    content: "\e93b";
 }
 .icon-medical-cross:before {
-	content: "\e93b";
+    content: "\e93b";
 }
 .icon-minus:before {
-	content: "\e93f";
+    content: "\e93f";
 }
 .icon-pause:before {
-	content: "\e942";
+    content: "\e942";
 }
 .icon-play:before {
-	content: "\e943";
+    content: "\e943";
 }
 .icon-stop:before {
-	content: "\e933";
+    content: "\e933";
 }
 .icon-download:before {
-	content: "\e914";
+    content: "\e914";
 }
 .icon-upload:before {
-	content: "\e961";
+    content: "\e961";
 }
 .icon-arrow-circle-up:before {
-	content: "\e903";
+    content: "\e903";
 }
 .icon-face-frown:before {
-	content: "\e918";
+    content: "\e918";
 }
 .icon-face-gasp:before {
-	content: "\e919";
+    content: "\e919";
 }
 .icon-face-meh:before {
-	content: "\e91a";
+    content: "\e91a";
 }
 .icon-face-open-smile:before {
-	content: "\e91b";
+    content: "\e91b";
 }
 .icon-face-smile:before {
-	content: "\e91c";
+    content: "\e91c";
 }
 .icon-help:before {
-	content: "\e926";
+    content: "\e926";
 }
 .icon-info:before {
-	content: "\e92a";
+    content: "\e92a";
 }
 .icon-history:before {
-	content: "\e927";
+    content: "\e927";
 }
 .icon-refresh:before {
-	content: "\e947";
+    content: "\e947";
 }
 .icon-success:before {
-	content: "\e94f";
+    content: "\e94f";
 }
 .icon-minus-circle:before {
-	content: "\e93d";
+    content: "\e93d";
 }
 .icon-plus-circle:before {
-	content: "\e944";
+    content: "\e944";
 }
 .icon-x-circle:before {
-	content: "\e931";
+    content: "\e931";
 }
 .icon-plus-square:before {
-	content: "\e945";
+    content: "\e945";
 }
 .icon-minus-square:before {
-	content: "\e93e";
-}
-.icon-square:before {
-	content: "\e94e";
+    content: "\e93e";
 }
 .icon-x-square:before {
-	content: "\e932";
+    content: "\e932";
+}
+.icon-square:before {
+    content: "\e94e";
 }
 .icon-cpu:before {
-	content: "\e910";
+    content: "\e910";
 }
 .icon-memory:before {
-	content: "\e93c";
+    content: "\e93c";
 }
 .icon-hdd:before {
-	content: "\e925";
+    content: "\e925";
 }
 .icon-database:before {
-	content: "\e911";
+    content: "\e911";
 }
 .icon-network:before {
-	content: "\e940";
+    content: "\e940";
 }
 .icon-vm:before {
-	content: "\e935";
+    content: "\e935";
 }
 .icon-box:before {
-	content: "\e904";
+    content: "\e904";
+}
+.icon-container:before {
+    content: "\e904";
+}
+.icon-containers:before {
+    content: "\e904";
+}
+.icon-service services:before {
+    content: "\e955";
 }
 .icon-share:before {
-	content: "\e949";
-}
-.icon-processes:before {
-	content: "\e934";
-}
-.icon-stacks:before {
-	content: "\e936";
+    content: "\e949";
 }
 .icon-tag:before {
-	content: "\e951";
+    content: "\e951";
 }
 .icon-home:before {
-	content: "\e928";
+    content: "\e928";
 }
 .icon-certificate:before {
-	content: "\e905";
+    content: "\e905";
+}
+.icon-process processes gear:before {
+    content: "\e934";
 }
 .icon-user:before {
-	content: "\e962";
+    content: "\e962";
 }
 .icon-users:before {
-	content: "\e963";
+    content: "\e963";
 }
 .icon-alert:before {
-	content: "\e901";
+    content: "\e901";
 }
 .icon-notification:before {
-	content: "\e941";
+    content: "\e941";
 }
 .icon-cloud:before {
-	content: "\e90d";
+    content: "\e90d";
 }
 .icon-compass:before {
-	content: "\e90e";
+    content: "\e90e";
 }
 .icon-tachometer:before {
-	content: "\e950";
+    content: "\e950";
 }
 .icon-globe:before {
-	content: "\e923";
+    content: "\e923";
+}
+.icon-stacks:before {
+    content: "\e936";
 }
 .icon-edit:before {
-	content: "\e915";
+    content: "\e915";
 }
 .icon-trash:before {
-	content: "\e95e";
+    content: "\e95e";
 }
 .icon-lock:before {
-	content: "\e939";
+    content: "\e939";
 }
 .icon-unlock:before {
-	content: "\e960";
+    content: "\e960";
 }
 .icon-key:before {
-	content: "\e92b";
+    content: "\e92b";
 }
 .icon-umbrella:before {
-	content: "\e95f";
+    content: "\e95f";
 }
 .icon-purged:before {
-	content: "\e95d";
+    content: "\e95d";
 }
 .icon-life-ring:before {
-	content: "\e930";
+    content: "\e930";
 }
 .icon-search:before {
-	content: "\e948";
+    content: "\e948";
 }
 .icon-terminal:before {
-	content: "\e95b";
+    content: "\e95b";
 }
 .icon-link:before {
-	content: "\e937";
+    content: "\e937";
 }
 .icon-external-link:before {
-	content: "\e917";
+    content: "\e917";
 }
 .icon-ellipsis:before {
-	content: "\e916";
+    content: "\e916";
 }
 .icon-copy:before {
-	content: "\e90f";
+    content: "\e90f";
 }
 .icon-file:before {
-	content: "\e91d";
+    content: "\e91d";
 }
 .icon-files:before {
-	content: "\e91e";
+    content: "\e91e";
 }
 .icon-layeredgroup:before {
-	content: "\e92d";
+    content: "\e92d";
 }
 .icon-layers:before {
-	content: "\e92e";
+    content: "\e92e";
 }
 .icon-thumbnails:before {
-	content: "\e95c";
+    content: "\e95c";
 }
 .icon-folder:before {
-	content: "\e91f";
+    content: "\e91f";
 }
 .icon-folder-open:before {
-	content: "\e920";
+    content: "\e920";
 }
 .icon-sort:before {
-	content: "\e94c";
+    content: "\e94c";
 }
 .icon-sort-up:before {
-	content: "\e94b";
+    content: "\e94b";
 }
 .icon-sort-down:before {
-	content: "\e94a";
+    content: "\e94a";
 }
 .icon-fork:before {
-	content: "\e921";
+    content: "\e921";
 }
 .icon-level-down:before {
-	content: "\e92f";
+    content: "\e92f";
 }
 .icon-hamburger-nav:before {
-	content: "\e924";
+    content: "\e924";
 }
 .icon-tasks:before {
-	content: "\e953";
+    content: "\e953";
 }
 .icon-host:before {
-	content: "\e929";
+    content: "\e929";
 }
 .icon-logout:before {
-	content: "\e93a";
+    content: "\e93a";
 }
 .icon-apple:before {
-	content: "\e902";
+    content: "\e902";
 }
 .icon-github:before {
-	content: "\e922";
+    content: "\e922";
 }
 .icon-kubernetes:before {
-	content: "\e92c";
+    content: "\e92c";
 }
 .icon-linux:before {
-	content: "\e938";
+    content: "\e938";
 }
 .icon-rancher-cow:before {
-	content: "\e946";
+    content: "\e946";
 }
 .icon-windows:before {
-	content: "\e964";
+    content: "\e964";
 }
 
