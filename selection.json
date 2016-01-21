@@ -8,7 +8,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"circle"
 				],
@@ -34,7 +36,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"adjust"
 				],
@@ -59,7 +63,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"circle-o"
 				],
@@ -87,7 +93,10 @@
 				"tags": [
 					"circle-diagonal"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -111,7 +120,10 @@
 				"tags": [
 					"circle-dots"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -134,7 +146,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"target"
 				],
@@ -169,7 +183,10 @@
 				"tags": [
 					"spinner"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -190,7 +207,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"check"
 				],
@@ -216,7 +235,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"x"
 				],
@@ -241,7 +262,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"chevron-down"
 				],
@@ -266,7 +289,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"chevron-left"
 				],
@@ -291,7 +316,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"chevron-right"
 				],
@@ -316,7 +343,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"chevron-up"
 				],
@@ -341,7 +370,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"plus"
 				],
@@ -366,7 +397,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"minus"
 				],
@@ -391,7 +424,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"pause"
 				],
@@ -416,7 +451,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"play"
 				],
@@ -444,7 +481,10 @@
 				"tags": [
 					"stop"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -467,7 +507,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"download"
 				],
@@ -494,7 +536,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"upload"
 				],
@@ -521,7 +565,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"arrow-circle-up"
 				],
@@ -549,7 +595,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"face-frown"
 				],
@@ -577,7 +625,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"face-gasp"
 				],
@@ -605,7 +655,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"face-meh"
 				],
@@ -633,7 +685,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"face-open-smile"
 				],
@@ -661,7 +715,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"face-smile"
 				],
@@ -687,7 +743,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"help"
 				],
@@ -713,7 +771,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"info"
 				],
@@ -740,7 +800,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"history"
 				],
@@ -766,7 +828,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"refresh"
 				],
@@ -792,7 +856,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"success"
 				],
@@ -818,7 +884,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"minus-circle"
 				],
@@ -845,7 +913,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"plus-circle"
 				],
@@ -875,7 +945,10 @@
 				"tags": [
 					"x-circle"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -898,7 +971,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"plus-square"
 				],
@@ -924,7 +999,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"minus-square"
 				],
@@ -954,7 +1031,10 @@
 				"tags": [
 					"x-square"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -975,7 +1055,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"square"
 				],
@@ -1064,7 +1146,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"cpu"
 				],
@@ -1165,7 +1249,10 @@
 				"tags": [
 					"memory"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1214,7 +1301,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"hdd"
 				],
@@ -1250,7 +1339,10 @@
 				"tags": [
 					"database"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1286,7 +1378,10 @@
 				"tags": [
 					"network"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1311,7 +1406,10 @@
 				"tags": [
 					"vm"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1335,7 +1433,10 @@
 				"tags": [
 					"box"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1359,7 +1460,10 @@
 				"tags": [
 					"service"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1384,7 +1488,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"share"
 				],
@@ -1412,7 +1518,10 @@
 				"tags": [
 					"tag"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1434,7 +1543,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"home"
 				],
@@ -1464,7 +1575,10 @@
 				"tags": [
 					"certificate"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1489,7 +1603,10 @@
 				"tags": [
 					"gear"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1514,7 +1631,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"user"
 				],
@@ -1551,7 +1670,10 @@
 				"tags": [
 					"users"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1575,7 +1697,9 @@
 				"width": 1024,
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"alert"
 				],
@@ -1607,7 +1731,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"notification"
 				],
@@ -1636,7 +1762,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"cloud"
 				],
@@ -1664,7 +1792,10 @@
 				"tags": [
 					"compass"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1688,7 +1819,10 @@
 				"tags": [
 					"tachometer"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1712,7 +1846,10 @@
 				"tags": [
 					"globe"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1736,7 +1873,10 @@
 				"tags": [
 					"stacks"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1761,7 +1901,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"edit"
 				],
@@ -1794,7 +1936,10 @@
 				"tags": [
 					"trash"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1820,7 +1965,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"lock"
 				],
@@ -1851,7 +1998,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"unlock"
 				],
@@ -1879,7 +2028,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"key"
 				],
@@ -1908,7 +2059,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"umbrella"
 				],
@@ -1939,7 +2092,10 @@
 				"tags": [
 					"purged"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1963,7 +2119,10 @@
 				"tags": [
 					"life-ring"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1987,7 +2146,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"search"
 				],
@@ -2013,7 +2174,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"terminal"
 				],
@@ -2040,7 +2203,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"link"
 				],
@@ -2070,7 +2235,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"external-link"
 				],
@@ -2097,7 +2264,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"ellipsis"
 				],
@@ -2125,7 +2294,10 @@
 				"tags": [
 					"copy"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -2153,7 +2325,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"file"
 				],
@@ -2185,7 +2359,10 @@
 				"tags": [
 					"files"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -2217,7 +2394,10 @@
 				"tags": [
 					"layeredgroup"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -2244,7 +2424,10 @@
 				"tags": [
 					"layers"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -2270,7 +2453,10 @@
 				"grid": 16,
 				"tags": [
 					"catalog"
-				]
+				],
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -2298,7 +2484,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"thumbnails"
 				],
@@ -2324,7 +2512,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"folder"
 				],
@@ -2350,7 +2540,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"folder-open"
 				],
@@ -2376,7 +2568,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"sort"
 				],
@@ -2401,7 +2595,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"sort-up"
 				],
@@ -2426,7 +2622,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"sort-down"
 				],
@@ -2454,7 +2652,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"fork"
 				],
@@ -2480,7 +2680,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"level-down"
 				],
@@ -2507,7 +2709,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"hamburger-nav"
 				],
@@ -2540,7 +2744,10 @@
 				"tags": [
 					"tasks"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -2582,7 +2789,10 @@
 				"tags": [
 					"host"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"12552552551": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -2605,7 +2815,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"logout"
 				],
@@ -2626,161 +2838,14 @@
 		{
 			"icon": {
 				"paths": [
-					"M584.924 407.002h113.891v116.423h57.583c26.592 0 53.943-4.74 79.127-13.272 12.376-4.194 26.264-10.035 38.473-17.376-16.079-20.99-24.285-47.495-26.703-73.621-3.281-35.535 3.887-81.784 27.935-109.596l11.972-13.847 14.265 11.467c35.914 28.858 66.123 69.181 71.45 115.145 43.244-12.721 94.022-9.711 132.142 12.291l15.642 9.020-8.233 16.069c-32.238 62.92-99.639 82.407-165.534 78.962-98.602 245.589-313.27 361.86-573.558 361.86-134.473 0-257.849-50.271-328.105-169.576l-1.152-1.949-10.238-20.826c-23.746-52.515-31.634-110.045-26.283-167.532l1.604-17.217h97.39v-116.423h113.884v-113.889h227.783v-113.891h136.667v227.778z",
-					"M208.256 434.21v82.26h7.796v-82.26h-7.796zM193.306 434.21v82.26h8.102v-82.26h-8.102zM178.347 434.21v82.26h8.102v-82.26h-8.102zM163.389 434.21v82.26h8.102v-82.26h-8.102zM148.436 434.21v82.26h8.102v-82.26h-8.102zM133.792 434.21v82.26h7.788v-82.26h-7.788zM125.571 425.982h98.701v98.706h-98.701v-98.706z",
-					"M322.145 320.319v82.258h7.8v-82.258h-7.8zM307.194 320.319v82.258h8.102v-82.258h-8.102zM292.236 320.319v82.258h8.102v-82.258h-8.102zM277.278 320.319v82.258h8.102v-82.258h-8.102zM262.33 320.319v82.258h8.097v-82.258h-8.097zM247.686 320.319v82.258h7.783v-82.258h-7.783zM239.455 312.094h98.713v98.704h-98.713v-98.704z",
-					"M322.145 434.21v82.26h7.8v-82.26h-7.8zM307.194 434.21v82.26h8.102v-82.26h-8.102zM292.236 434.21v82.26h8.102v-82.26h-8.102zM277.278 434.21v82.26h8.102v-82.26h-8.102zM262.33 434.21v82.26h8.097v-82.26h-8.097zM247.686 434.21v82.26h7.783v-82.26h-7.783zM239.455 425.982h98.713v98.706h-98.713v-98.706z",
-					"M436.039 434.21v82.26h7.791v-82.26h-7.791zM421.083 434.21v82.26h8.105v-82.26h-8.105zM406.13 434.21v82.26h8.102v-82.26h-8.102zM391.172 434.21v82.26h8.102v-82.26h-8.102zM376.214 434.21v82.26h8.102v-82.26h-8.102zM361.575 434.21v82.26h7.783v-82.26h-7.783zM353.349 425.982h98.709v98.706h-98.709v-98.706z",
-					"M436.039 320.319v82.258h7.791v-82.258h-7.791zM421.083 320.319v82.258h8.105v-82.258h-8.105zM406.13 320.319v82.258h8.102v-82.258h-8.102zM391.172 320.319v82.258h8.102v-82.258h-8.102zM376.214 320.319v82.258h8.102v-82.258h-8.102zM361.575 320.319v82.258h7.783v-82.258h-7.783zM353.349 312.094h98.709v98.704h-98.709v-98.704z",
-					"M549.93 434.21v82.26h7.793v-82.26h-7.793zM534.977 434.21v82.26h8.102v-82.26h-8.102zM520.019 434.21v82.26h8.102v-82.26h-8.102zM505.061 434.21v82.26h8.102v-82.26h-8.102zM490.11 434.21v82.26h8.102v-82.26h-8.102zM475.464 434.21v82.26h7.788v-82.26h-7.788zM467.238 425.982h98.709v98.706h-98.709v-98.706z",
-					"M549.93 320.319v82.258h7.793v-82.258h-7.793zM534.977 320.319v82.258h8.102v-82.258h-8.102zM520.019 320.319v82.258h8.102v-82.258h-8.102zM505.061 320.319v82.258h8.102v-82.258h-8.102zM490.11 320.319v82.258h8.102v-82.258h-8.102zM475.464 320.319v82.258h7.788v-82.258h-7.788zM467.238 312.094h98.709v98.704h-98.709v-98.704z",
-					"M549.93 206.425v82.262h7.793v-82.262h-7.793zM534.977 206.425v82.262h8.102v-82.262h-8.102zM520.019 206.425v82.262h8.102v-82.262h-8.102zM505.061 206.425v82.262h8.102v-82.262h-8.102zM490.11 206.425v82.262h8.102v-82.262h-8.102zM475.464 206.425v82.262h7.788v-82.262h-7.788zM467.238 198.205h98.709v98.706h-98.709v-98.706z",
-					"M663.819 434.21v82.26h7.788v-82.26h-7.788zM648.866 434.21v82.26h8.097v-82.26h-8.097zM633.903 434.21v82.26h8.102v-82.26h-8.102zM618.95 434.21v82.26h8.102v-82.26h-8.102zM603.992 434.21v82.26h8.102v-82.26h-8.102zM589.348 434.21v82.26h7.796v-82.26h-7.796zM581.127 425.982h98.706v98.706h-98.706v-98.706z",
-					"M331.987 684.722c15.038 0 27.228 12.197 27.228 27.23 0 15.038-12.19 27.228-27.228 27.228-15.040 0-27.23-12.19-27.23-27.228 0-15.033 12.19-27.23 27.23-27.23z",
-					"M331.987 692.45c2.491 0 4.868 0.469 7.061 1.319-2.377 1.375-3.986 3.95-3.986 6.894 0 4.397 3.566 7.955 7.962 7.955 3.012 0 5.626-1.674 6.981-4.143 0.954 2.302 1.486 4.829 1.486 7.481 0 10.769-8.733 19.502-19.502 19.502s-19.504-8.733-19.504-19.502c-0.002-10.777 8.735-19.507 19.502-19.507z",
-					"M404.376 880.956c-67.437-32.001-104.453-75.506-125.050-122.996-25.051 7.153-55.163 11.721-90.147 13.683-13.183 0.742-27.046 1.121-41.596 1.121-16.77 0-34.448-0.495-53.001-1.481 61.842 61.806 137.923 109.391 278.793 110.265 10.4-0.002 20.724-0.205 31.001-0.592z"
-				],
-				"attrs": [
-					{
-						"fill": "rgb(0, 0, 0)"
-					},
-					{
-						"fill": "rgb(255, 255, 255)"
-					},
-					{
-						"fill": "rgb(255, 255, 255)"
-					},
-					{
-						"fill": "rgb(255, 255, 255)"
-					},
-					{
-						"fill": "rgb(255, 255, 255)"
-					},
-					{
-						"fill": "rgb(255, 255, 255)"
-					},
-					{
-						"fill": "rgb(255, 255, 255)"
-					},
-					{
-						"fill": "rgb(255, 255, 255)"
-					},
-					{
-						"fill": "rgb(255, 255, 255)"
-					},
-					{
-						"fill": "rgb(255, 255, 255)"
-					},
-					{
-						"fill": "rgb(255, 255, 255)"
-					},
-					{
-						"fill": "rgb(0, 0, 0)"
-					},
-					{
-						"fill": "rgb(255, 255, 255)"
-					}
-				],
-				"isMulticolor": true,
-				"width": 1126,
-				"grid": 16,
-				"tags": [
-					"docker"
-				],
-				"colorPermutations": {
-					"12552552551": [
-						0,
-						1,
-						1,
-						1,
-						1,
-						1,
-						1,
-						1,
-						1,
-						1,
-						1,
-						0,
-						1
-					]
-				}
-			},
-			"attrs": [
-				{
-					"fill": "rgb(0, 0, 0)"
-				},
-				{
-					"fill": "rgb(255, 255, 255)"
-				},
-				{
-					"fill": "rgb(255, 255, 255)"
-				},
-				{
-					"fill": "rgb(255, 255, 255)"
-				},
-				{
-					"fill": "rgb(255, 255, 255)"
-				},
-				{
-					"fill": "rgb(255, 255, 255)"
-				},
-				{
-					"fill": "rgb(255, 255, 255)"
-				},
-				{
-					"fill": "rgb(255, 255, 255)"
-				},
-				{
-					"fill": "rgb(255, 255, 255)"
-				},
-				{
-					"fill": "rgb(255, 255, 255)"
-				},
-				{
-					"fill": "rgb(255, 255, 255)"
-				},
-				{
-					"fill": "rgb(0, 0, 0)"
-				},
-				{
-					"fill": "rgb(255, 255, 255)"
-				}
-			],
-			"properties": {
-				"order": 106,
-				"id": 97,
-				"prevSize": 48,
-				"code": 59734,
-				"codes": [
-					59734,
-					59735,
-					59736,
-					59737,
-					59738,
-					59750,
-					59751,
-					59752,
-					59753,
-					59754,
-					59755,
-					59756,
-					59757
-				],
-				"name": "docker"
-			},
-			"setIdx": 0,
-			"setId": 3,
-			"iconIdx": 91
-		},
-		{
-			"icon": {
-				"paths": [
 					"M684.032 343.041c25.259 0 47.104 6.144 66.219 17.749-6.144 7.509-12.288 15.019-17.067 21.845-30.72 44.373-45.739 93.525-45.739 146.773 0 57.344 16.384 109.227 48.469 154.965 15.701 23.211 33.451 42.325 52.565 57.344-9.557 20.48-21.845 40.96-35.499 61.44v0 0c-34.816 52.565-62.123 70.997-76.459 70.997-2.048 0-15.701-0.683-49.835-12.288-37.547-13.653-70.997-20.48-101.717-20.48-30.037 0-62.805 7.509-99.669 22.528h-1.365c-27.989 11.605-40.277 12.288-42.325 12.288-19.115 0-54.613-26.624-96.939-100.352-45.056-79.872-67.584-156.331-67.584-228.011 0-64.171 14.336-114.005 44.373-152.235 25.941-32.768 55.296-48.469 93.525-48.469 12.971 0 35.499 2.048 73.045 12.971 55.979 16.384 77.141 18.432 90.795 18.432 23.893 0 54.613-6.827 96.256-21.163 35.499-11.605 57.344-14.336 68.949-14.336zM684.032 274.774c-24.576 0-54.613 6.144-90.112 17.749-34.133 11.605-58.709 17.749-74.411 17.749-11.605 0-35.499-5.461-71.68-15.701s-66.901-15.701-92.16-15.701c-59.392 0-108.544 25.259-147.456 75.093-38.912 50.517-58.709 115.371-58.709 194.56 0 83.968 25.259 171.349 76.459 261.461 51.883 90.112 103.765 134.485 156.331 134.485 17.749 0 40.277-6.144 68.949-17.749 27.989-11.605 52.565-17.067 73.728-17.067 22.528 0 48.469 5.461 78.507 16.384 31.403 10.923 55.979 16.384 73.045 16.384 44.373 0 88.747-34.133 133.803-101.717 29.355-43.008 50.517-86.699 64.171-129.707-30.72-9.557-58.027-31.403-81.92-65.536s-36.181-73.045-36.181-116.053c0-38.912 11.605-75.093 34.133-107.861 12.288-17.749 32.085-38.229 59.392-61.44-17.749-21.845-36.181-39.595-53.931-51.883-34.133-21.845-70.997-33.451-111.957-33.451v0z",
 					"M675.157 79.531c-60.757 14.336-104.448 39.595-129.707 77.141-25.941 37.547-39.595 81.92-40.277 133.803 23.211-2.048 40.96-4.779 53.931-8.875 18.432-6.144 37.547-18.432 55.979-37.547 21.845-21.845 38.229-45.739 48.469-71.68s15.019-49.835 15.019-70.997c0-1.365 0-3.413 0-5.461s0-4.096 0-5.461c-0.683-1.365-0.683-2.731-1.365-5.461-1.365-2.731-2.048-4.096-2.048-5.461v0z"
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"apple"
 				],
@@ -2796,6 +2861,34 @@
 			},
 			"setIdx": 0,
 			"setId": 3,
+			"iconIdx": 91
+		},
+		{
+			"icon": {
+				"paths": [
+					"M1104.442 406.798c-38.167-21.983-88.896-25.123-132.137-12.32-5.314-45.898-35.51-86.239-71.504-115.227l-14.252-11.354-12.078 13.769c-24.157 27.78-31.162 74.161-28.022 109.671 2.416 26.089 10.629 52.661 26.814 73.678-12.32 7.247-26.089 13.286-38.409 17.393-25.123 8.455-52.42 13.286-79.234 13.286h-57.493v-116.435h-113.778v-227.797h-136.485v113.778h-227.797v113.778h-113.778v116.435h-97.351l-1.691 17.151c-5.314 57.493 2.416 114.986 26.331 167.647l10.146 20.775 1.208 1.933c70.296 119.334 193.736 169.58 328.047 169.58 260.167 0 474.92-116.193 573.479-361.866 65.948 3.382 133.345-15.943 165.473-78.992l8.213-16.185-15.702-8.696zM238.909 284.324h98.801v98.801h-98.801v-98.801zM358.726 684.116c0 14.977-12.078 27.297-27.297 27.297-14.977 0-27.297-12.078-27.297-27.297 0-14.977 12.078-27.297 27.297-27.297s27.297 12.32 27.297 27.297zM238.909 398.101h98.801v98.801h-98.801v-98.801zM125.131 398.101h98.801v98.801h-98.801v-98.801zM372.979 853.696c-140.833-0.966-216.927-48.555-278.768-110.154 18.601 0.966 36.235 1.449 52.903 1.449 14.494 0 28.505-0.483 41.549-1.208 35.027-1.933 64.981-6.522 90.104-13.769 20.775 47.589 57.734 91.071 125.131 122.957-10.387 0.483-20.533 0.725-30.921 0.725zM451.488 496.902h-98.801v-98.801h98.801v98.801zM451.488 382.883h-98.801v-98.801h98.801v98.801zM565.507 496.902h-98.801v-98.801h98.801v98.801zM565.507 382.883h-98.801v-98.801h98.801v98.801zM565.507 269.105h-98.801v-98.801h98.801v98.801zM679.285 496.902h-98.559v-98.801h98.801v98.801zM331.429 664.549c2.416 0 4.831 0.483 7.005 1.208-2.416 1.449-3.865 3.865-3.865 7.005 0 4.348 3.623 7.972 7.972 7.972 2.899 0 5.556-1.691 7.005-4.107 0.966 2.416 1.449 4.831 1.449 7.489 0 10.87-8.696 19.567-19.567 19.567s-19.567-8.696-19.567-19.567c0.242-10.87 8.938-19.567 19.567-19.567z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"width": 1126,
+				"grid": 16,
+				"tags": [
+					"docker"
+				],
+				"colorPermutations": {
+					"12552552551": []
+				}
+			},
+			"attrs": [],
+			"properties": {
+				"order": 107,
+				"id": 97,
+				"prevSize": 48,
+				"code": 59734,
+				"name": "docker"
+			},
+			"setIdx": 0,
+			"setId": 3,
 			"iconIdx": 92
 		},
 		{
@@ -2805,7 +2898,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"github"
 				],
@@ -2830,7 +2925,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"kubernetes"
 				],
@@ -2855,7 +2952,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"linux"
 				],
@@ -2881,7 +2980,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"rancher-cow"
 				],
@@ -2906,7 +3007,9 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"colorPermutations": {
+					"12552552551": []
+				},
 				"tags": [
 					"windows"
 				],
