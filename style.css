@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'rancher-icons';
     src:
-        url('fonts/rancher-icons.ttf?50airt') format('truetype'),
-        url('fonts/rancher-icons.woff?50airt') format('woff'),
-        url('fonts/rancher-icons.svg?50airt#rancher-icons') format('svg');
+        url('fonts/rancher-icons.ttf?3b5x7x') format('truetype'),
+        url('fonts/rancher-icons.woff?3b5x7x') format('woff'),
+        url('fonts/rancher-icons.svg?3b5x7x#rancher-icons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -317,72 +317,11 @@
 .icon-logout:before {
     content: "\e93a";
 }
-.icon-docker .path1:before {
-    content: "\e956";
-    color: rgb(0, 0, 0);
-}
-.icon-docker .path2:before {
-    content: "\e957";
-    margin-left: -1.099609375em;
-    color: rgb(255, 255, 255);
-}
-.icon-docker .path3:before {
-    content: "\e958";
-    margin-left: -1.099609375em;
-    color: rgb(255, 255, 255);
-}
-.icon-docker .path4:before {
-    content: "\e959";
-    margin-left: -1.099609375em;
-    color: rgb(255, 255, 255);
-}
-.icon-docker .path5:before {
-    content: "\e95a";
-    margin-left: -1.099609375em;
-    color: rgb(255, 255, 255);
-}
-.icon-docker .path6:before {
-    content: "\e966";
-    margin-left: -1.099609375em;
-    color: rgb(255, 255, 255);
-}
-.icon-docker .path7:before {
-    content: "\e967";
-    margin-left: -1.099609375em;
-    color: rgb(255, 255, 255);
-}
-.icon-docker .path8:before {
-    content: "\e968";
-    margin-left: -1.099609375em;
-    color: rgb(255, 255, 255);
-}
-.icon-docker .path9:before {
-    content: "\e969";
-    margin-left: -1.099609375em;
-    color: rgb(255, 255, 255);
-}
-.icon-docker .path10:before {
-    content: "\e96a";
-    margin-left: -1.099609375em;
-    color: rgb(255, 255, 255);
-}
-.icon-docker .path11:before {
-    content: "\e96b";
-    margin-left: -1.099609375em;
-    color: rgb(255, 255, 255);
-}
-.icon-docker .path12:before {
-    content: "\e96c";
-    margin-left: -1.099609375em;
-    color: rgb(0, 0, 0);
-}
-.icon-docker .path13:before {
-    content: "\e96d";
-    margin-left: -1.099609375em;
-    color: rgb(255, 255, 255);
-}
 .icon-apple:before {
     content: "\e902";
+}
+.icon-docker:before {
+    content: "\e956";
 }
 .icon-github:before {
     content: "\e922";
