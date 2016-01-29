@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'rancher-icons';
     src:
-        url('fonts/rancher-icons.ttf?3b5x7x') format('truetype'),
-        url('fonts/rancher-icons.woff?3b5x7x') format('woff'),
-        url('fonts/rancher-icons.svg?3b5x7x#rancher-icons') format('svg');
+        url('fonts/rancher-icons.ttf?ln0rtq') format('truetype'),
+        url('fonts/rancher-icons.woff?ln0rtq') format('woff'),
+        url('fonts/rancher-icons.svg?ln0rtq#rancher-icons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -23,6 +23,15 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-auto:before {
+    content: "\e957";
+}
+.icon-moon:before {
+    content: "\e958";
+}
+.icon-sun:before {
+    content: "\e959";
+}
 .icon-circle:before {
     content: "\e90c";
 }
@@ -259,6 +268,9 @@
 }
 .icon-external-link:before {
     content: "\e917";
+}
+.icon-line-ellipsis:before {
+    content: "\e95a";
 }
 .icon-ellipsis:before {
     content: "\e916";
