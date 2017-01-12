@@ -3435,7 +3435,7 @@
       },
       "metrics": {
         "emSize": 1024,
-        "baseline": 0,
+        "baseline": 16,
         "whitespace": 50
       },
       "embed": false,
