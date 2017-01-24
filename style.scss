@@ -3,9 +3,9 @@
 @font-face {
   font-family: 'rancher-icons';
   src:
-    url('#{$icomoon-font-path}/rancher-icons.ttf?iazd1e') format('truetype'),
-    url('#{$icomoon-font-path}/rancher-icons.woff?iazd1e') format('woff'),
-    url('#{$icomoon-font-path}/rancher-icons.svg?iazd1e#rancher-icons') format('svg');
+    url('#{$icomoon-font-path}/rancher-icons.ttf?6lrlbn') format('truetype'),
+    url('#{$icomoon-font-path}/rancher-icons.woff?6lrlbn') format('woff'),
+    url('#{$icomoon-font-path}/rancher-icons.svg?6lrlbn#rancher-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -348,6 +348,11 @@
 .icon-gear {
   &:before {
     content: $icon-gear;
+  }
+}
+.icon-secrets {
+  &:before {
+    content: $icon-secrets;
   }
 }
 .icon-user {
