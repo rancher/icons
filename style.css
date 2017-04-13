@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'rancher-icons';
   src:
-    url('fonts/rancher-icons.ttf?p4pj3q') format('truetype'),
-    url('fonts/rancher-icons.woff?p4pj3q') format('woff'),
-    url('fonts/rancher-icons.svg?p4pj3q#rancher-icons') format('svg');
+    url('fonts/rancher-icons.ttf?ac5ckf') format('truetype'),
+    url('fonts/rancher-icons.woff?ac5ckf') format('woff'),
+    url('fonts/rancher-icons.svg?ac5ckf#rancher-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -328,6 +328,12 @@
 }
 .icon-thumbnails:before {
   content: "\e95c";
+}
+.icon-dotview:before {
+  content: "\e973";
+}
+.icon-boxview:before {
+  content: "\e974";
 }
 .icon-folder:before {
   content: "\e91f";
