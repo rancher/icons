@@ -3,9 +3,9 @@
 @font-face {
   font-family: 'rancher-icons';
   src:
-    url('#{$icomoon-font-path}/rancher-icons.ttf?h0biey') format('truetype'),
-    url('#{$icomoon-font-path}/rancher-icons.woff?h0biey') format('woff'),
-    url('#{$icomoon-font-path}/rancher-icons.svg?h0biey#rancher-icons') format('svg');
+    url('#{$icomoon-font-path}/rancher-icons.ttf?rwethz') format('truetype'),
+    url('#{$icomoon-font-path}/rancher-icons.woff?rwethz') format('woff'),
+    url('#{$icomoon-font-path}/rancher-icons.svg?rwethz#rancher-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,6 +25,16 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-thumbs-down {
+  &:before {
+    content: $icon-thumbs-down;
+  }
+}
+.icon-thumbs-up {
+  &:before {
+    content: $icon-thumbs-up;
+  }
+}
 .icon-circle {
   &:before {
     content: $icon-circle;
