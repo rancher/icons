@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'rancher-icons';
   src:
-    url('fonts/rancher-icons.ttf?rwethz') format('truetype'),
-    url('fonts/rancher-icons.woff?rwethz') format('woff'),
-    url('fonts/rancher-icons.svg?rwethz#rancher-icons') format('svg');
+    url('fonts/rancher-icons.ttf?ftkvsy') format('truetype'),
+    url('fonts/rancher-icons.woff?ftkvsy') format('woff'),
+    url('fonts/rancher-icons.svg?ftkvsy#rancher-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -43,9 +43,6 @@
 }
 .icon-dot-circlefill:before {
   content: "\e912";
-}
-.icon-target:before {
-  content: "\e952";
 }
 .icon-spinner:before {
   content: "\e94d";
@@ -103,21 +100,6 @@
 }
 .icon-arrow-circle-up:before {
   content: "\e903";
-}
-.icon-face-frown:before {
-  content: "\e918";
-}
-.icon-face-gasp:before {
-  content: "\e919";
-}
-.icon-face-meh:before {
-  content: "\e91a";
-}
-.icon-face-open-smile:before {
-  content: "\e91b";
-}
-.icon-face-smile:before {
-  content: "\e91c";
 }
 .icon-star-line:before {
   content: "\e96c";
@@ -260,14 +242,8 @@
 .icon-compass:before {
   content: "\e90e";
 }
-.icon-tachometer:before {
-  content: "\e950";
-}
 .icon-globe:before {
   content: "\e923";
-}
-.icon-stacks:before {
-  content: "\e936";
 }
 .icon-garbage:before {
   content: "\e975";
@@ -277,12 +253,6 @@
 }
 .icon-trash:before {
   content: "\e95e";
-}
-.icon-lock:before {
-  content: "\e939";
-}
-.icon-unlock:before {
-  content: "\e960";
 }
 .icon-key:before {
   content: "\e92b";
@@ -308,9 +278,6 @@
 .icon-external-link:before {
   content: "\e917";
 }
-.icon-line-ellipsis:before {
-  content: "\e95a";
-}
 .icon-ellipsis:before {
   content: "\e916";
 }
@@ -326,17 +293,8 @@
 .icon-files:before {
   content: "\e91e";
 }
-.icon-layeredgroup:before {
-  content: "\e92d";
-}
-.icon-layers:before {
-  content: "\e92e";
-}
 .icon-catalog:before {
   content: "\e954";
-}
-.icon-thumbnails:before {
-  content: "\e95c";
 }
 .icon-dotview:before {
   content: "\e973";
@@ -391,9 +349,6 @@
 }
 .icon-github:before {
   content: "\e922";
-}
-.icon-heptagon:before {
-  content: "\e967";
 }
 .icon-kubernetes:before {
   content: "\e92c";
