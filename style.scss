@@ -3,9 +3,9 @@
 @font-face {
   font-family: 'rancher-icons';
   src:
-    url('#{$icomoon-font-path}/rancher-icons.ttf?rwethz') format('truetype'),
-    url('#{$icomoon-font-path}/rancher-icons.woff?rwethz') format('woff'),
-    url('#{$icomoon-font-path}/rancher-icons.svg?rwethz#rancher-icons') format('svg');
+    url('#{$icomoon-font-path}/rancher-icons.ttf?6wpova') format('truetype'),
+    url('#{$icomoon-font-path}/rancher-icons.woff?6wpova') format('woff'),
+    url('#{$icomoon-font-path}/rancher-icons.svg?6wpova#rancher-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -58,11 +58,6 @@
 .icon-dot-circlefill {
   &:before {
     content: $icon-dot-circlefill;
-  }
-}
-.icon-target {
-  &:before {
-    content: $icon-target;
   }
 }
 .icon-spinner {
@@ -158,31 +153,6 @@
 .icon-arrow-circle-up {
   &:before {
     content: $icon-arrow-circle-up;
-  }
-}
-.icon-face-frown {
-  &:before {
-    content: $icon-face-frown;
-  }
-}
-.icon-face-gasp {
-  &:before {
-    content: $icon-face-gasp;
-  }
-}
-.icon-face-meh {
-  &:before {
-    content: $icon-face-meh;
-  }
-}
-.icon-face-open-smile {
-  &:before {
-    content: $icon-face-open-smile;
-  }
-}
-.icon-face-smile {
-  &:before {
-    content: $icon-face-smile;
   }
 }
 .icon-star-line {
@@ -420,19 +390,9 @@
     content: $icon-compass;
   }
 }
-.icon-tachometer {
-  &:before {
-    content: $icon-tachometer;
-  }
-}
 .icon-globe {
   &:before {
     content: $icon-globe;
-  }
-}
-.icon-stacks {
-  &:before {
-    content: $icon-stacks;
   }
 }
 .icon-garbage {
@@ -448,16 +408,6 @@
 .icon-trash {
   &:before {
     content: $icon-trash;
-  }
-}
-.icon-lock {
-  &:before {
-    content: $icon-lock;
-  }
-}
-.icon-unlock {
-  &:before {
-    content: $icon-unlock;
   }
 }
 .icon-key {
@@ -500,11 +450,6 @@
     content: $icon-external-link;
   }
 }
-.icon-line-ellipsis {
-  &:before {
-    content: $icon-line-ellipsis;
-  }
-}
 .icon-ellipsis {
   &:before {
     content: $icon-ellipsis;
@@ -530,24 +475,9 @@
     content: $icon-files;
   }
 }
-.icon-layeredgroup {
-  &:before {
-    content: $icon-layeredgroup;
-  }
-}
-.icon-layers {
-  &:before {
-    content: $icon-layers;
-  }
-}
 .icon-catalog {
   &:before {
     content: $icon-catalog;
-  }
-}
-.icon-thumbnails {
-  &:before {
-    content: $icon-thumbnails;
   }
 }
 .icon-dotview {
@@ -620,6 +550,16 @@
     content: $icon-host;
   }
 }
+.icon-hosts {
+  &:before {
+    content: $icon-hosts;
+  }
+}
+.icon-cluster {
+  &:before {
+    content: $icon-cluster;
+  }
+}
 .icon-logout {
   &:before {
     content: $icon-logout;
@@ -638,11 +578,6 @@
 .icon-github {
   &:before {
     content: $icon-github;
-  }
-}
-.icon-heptagon {
-  &:before {
-    content: $icon-heptagon;
   }
 }
 .icon-kubernetes {
