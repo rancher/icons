@@ -4,6 +4,35 @@
     {
       "icon": {
         "paths": [
+          "M59.429 403.429l452.571 580-496-360c-13.714-10.286-19.429-28-14.286-44l57.714-176zM323.429 403.429h377.143l-188.571 580zM210.286 53.714l113.143 349.714h-264l113.143-349.714c6.286-17.714 31.429-17.714 37.714 0zM964.571 403.429l57.714 176c5.143 16-0.571 33.714-14.286 44l-496 360 452.571-580zM964.571 403.429h-264l113.143-349.714c6.286-17.714 31.429-17.714 37.714 0z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "gitlab"
+        ],
+        "grid": 16
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 649,
+        "id": 0,
+        "name": "gitlab",
+        "prevSize": 32,
+        "code": 59675
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
           "M1015.2 356.2c-43.8-53.6-289.8-89.8-503.2 93.4-199.6-178.8-459.4-147-503.2-93.4-43.8 97.2 86.8 375 148.4 375 67 0 260.6-64.6 329.8-99.4 13.8-7 36-7 50 0 69.2 34.8 262.8 99.4 329.8 99.4 61.6 0 192.2-277.8 148.4-375zM291.6 595.8c-51.6 1-130-55.2-148.6-92 28-30.6 124.4-43 164.2-34.8 27.6 5.6 92 25.8 98.6 72.2 3.6 24.6-38.4 53.2-114.2 54.6zM732.4 595.8c-75.8-1.4-117.8-30-114.2-54.6 6.6-46.4 71-66.6 98.6-72.2 39.8-8 136.2 4.4 164.2 34.8-18.6 37-97 93-148.6 92z"
         ],
         "attrs": [
@@ -31,8 +60,8 @@
         "prevSize": 32,
         "code": 59673
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 0
     },
     {
@@ -65,8 +94,8 @@
         "prevSize": 32,
         "code": 59766
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 1
     },
     {
@@ -99,8 +128,8 @@
         "prevSize": 32,
         "code": 59767
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 2
     },
     {
@@ -128,8 +157,8 @@
         "code": 59660,
         "name": "circle"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 3
     },
     {
@@ -162,8 +191,8 @@
         "code": 59648,
         "name": "adjust"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 4
     },
     {
@@ -191,8 +220,8 @@
         "code": 59659,
         "name": "circle-o"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 5
     },
     {
@@ -220,8 +249,8 @@
         "code": 59667,
         "name": "dot-diagonalfill"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 6
     },
     {
@@ -249,8 +278,8 @@
         "code": 59666,
         "name": "dot-circlefill"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 7
     },
     {
@@ -285,8 +314,8 @@
         "code": 59725,
         "name": "spinner"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 8
     },
     {
@@ -314,8 +343,8 @@
         "code": 59654,
         "name": "check"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 9
     },
     {
@@ -344,8 +373,8 @@
         "code": 59749,
         "name": "x, close"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 10
     },
     {
@@ -373,8 +402,8 @@
         "code": 59655,
         "name": "chevron-down"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 11
     },
     {
@@ -402,8 +431,8 @@
         "code": 59656,
         "name": "chevron-left"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 12
     },
     {
@@ -431,8 +460,8 @@
         "code": 59657,
         "name": "chevron-right"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 13
     },
     {
@@ -460,8 +489,8 @@
         "code": 59658,
         "name": "chevron-up"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 14
     },
     {
@@ -498,8 +527,8 @@
         "prevSize": 32,
         "code": 59687
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 15
     },
     {
@@ -536,8 +565,8 @@
         "prevSize": 32,
         "code": 59754
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 16
     },
     {
@@ -565,8 +594,8 @@
         "code": 59707,
         "name": "plus, medical-cross"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 17
     },
     {
@@ -594,8 +623,8 @@
         "code": 59711,
         "name": "minus"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 18
     },
     {
@@ -623,8 +652,8 @@
         "code": 59714,
         "name": "pause"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 19
     },
     {
@@ -652,8 +681,8 @@
         "code": 59715,
         "name": "play"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 20
     },
     {
@@ -681,8 +710,8 @@
         "code": 59699,
         "name": "stop"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 21
     },
     {
@@ -712,8 +741,8 @@
         "code": 59668,
         "name": "download"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 22
     },
     {
@@ -743,8 +772,8 @@
         "code": 59745,
         "name": "upload"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 23
     },
     {
@@ -785,8 +814,8 @@
         "code": 59651,
         "name": "arrow-circle-up"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 24
     },
     {
@@ -819,8 +848,8 @@
         "prevSize": 32,
         "code": 59756
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 25
     },
     {
@@ -853,8 +882,8 @@
         "prevSize": 32,
         "code": 59757
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 26
     },
     {
@@ -887,8 +916,8 @@
         "prevSize": 32,
         "code": 59758
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 27
     },
     {
@@ -921,8 +950,8 @@
         "code": 59735,
         "name": "auto"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 28
     },
     {
@@ -967,8 +996,8 @@
         "code": 59736,
         "name": "moon"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 29
     },
     {
@@ -1041,8 +1070,8 @@
         "code": 59737,
         "name": "sun"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 30
     },
     {
@@ -1083,8 +1112,8 @@
         "code": 59686,
         "name": "help"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 31
     },
     {
@@ -1125,8 +1154,8 @@
         "code": 59690,
         "name": "info"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 32
     },
     {
@@ -1163,8 +1192,8 @@
         "code": 59719,
         "name": "refresh"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 33
     },
     {
@@ -1201,8 +1230,8 @@
         "code": 59727,
         "name": "success"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 34
     },
     {
@@ -1239,8 +1268,8 @@
         "code": 59709,
         "name": "minus-circle"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 35
     },
     {
@@ -1281,8 +1310,8 @@
         "code": 59716,
         "name": "plus-circle"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 36
     },
     {
@@ -1323,8 +1352,8 @@
         "code": 59697,
         "name": "x-circle"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 37
     },
     {
@@ -1360,8 +1389,8 @@
         "code": 59752,
         "name": "backup, history"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 38
     },
     {
@@ -1397,8 +1426,8 @@
         "code": 59753,
         "name": "snapshot"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 39
     },
     {
@@ -1439,8 +1468,8 @@
         "code": 59717,
         "name": "plus-square"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 40
     },
     {
@@ -1477,8 +1506,8 @@
         "code": 59710,
         "name": "minus-square"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 41
     },
     {
@@ -1519,8 +1548,8 @@
         "code": 59698,
         "name": "x-square"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 42
     },
     {
@@ -1548,8 +1577,8 @@
         "code": 59726,
         "name": "square"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 43
     },
     {
@@ -1646,8 +1675,8 @@
         "code": 59664,
         "name": "cpu"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 44
     },
     {
@@ -1713,8 +1742,8 @@
         "code": 59708,
         "name": "memory"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 45
     },
     {
@@ -1770,8 +1799,8 @@
         "code": 59685,
         "name": "hdd"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 46
     },
     {
@@ -1807,8 +1836,8 @@
         "code": 59665,
         "name": "database"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 47
     },
     {
@@ -1848,8 +1877,8 @@
         "code": 59712,
         "name": "network"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 48
     },
     {
@@ -1878,8 +1907,8 @@
         "code": 59701,
         "name": "vm"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 49
     },
     {
@@ -1912,8 +1941,8 @@
         "code": 59652,
         "name": "box, container, containers"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 50
     },
     {
@@ -1946,8 +1975,8 @@
         "code": 59733,
         "name": "service, services"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 51
     },
     {
@@ -1980,8 +2009,8 @@
         "prevSize": 32,
         "code": 59762
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 52
     },
     {
@@ -2014,8 +2043,8 @@
         "prevSize": 32,
         "code": 59761
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 53
     },
     {
@@ -2056,8 +2085,8 @@
         "code": 59721,
         "name": "share"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 54
     },
     {
@@ -2085,8 +2114,8 @@
         "code": 59729,
         "name": "tag"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 55
     },
     {
@@ -2123,8 +2152,8 @@
         "code": 59688,
         "name": "home"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 56
     },
     {
@@ -2154,8 +2183,8 @@
         "code": 59653,
         "name": "certificate"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 57
     },
     {
@@ -2220,8 +2249,8 @@
         "code": 59700,
         "name": "process, processes, gear"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 58
     },
     {
@@ -2254,8 +2283,8 @@
         "prevSize": 32,
         "code": 59755
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 59
     },
     {
@@ -2287,8 +2316,8 @@
         "code": 59746,
         "name": "user"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 60
     },
     {
@@ -2325,8 +2354,8 @@
         "code": 59747,
         "name": "users"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 61
     },
     {
@@ -2368,8 +2397,8 @@
         "code": 59649,
         "name": "alert"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 62
     },
     {
@@ -2404,8 +2433,8 @@
         "code": 59713,
         "name": "notification"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 63
     },
     {
@@ -2437,8 +2466,8 @@
         "code": 59661,
         "name": "cloud"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 64
     },
     {
@@ -2466,8 +2495,8 @@
         "code": 59662,
         "name": "compass"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 65
     },
     {
@@ -2495,8 +2524,8 @@
         "code": 59683,
         "name": "globe"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 66
     },
     {
@@ -2533,8 +2562,8 @@
         "prevSize": 32,
         "code": 59765
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 67
     },
     {
@@ -2583,8 +2612,8 @@
         "code": 59669,
         "name": "edit"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 68
     },
     {
@@ -2637,8 +2666,8 @@
         "code": 59742,
         "name": "trash"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 69
     },
     {
@@ -2679,8 +2708,8 @@
         "code": 59691,
         "name": "key"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 70
     },
     {
@@ -2729,8 +2758,8 @@
         "code": 59743,
         "name": "umbrella"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 71
     },
     {
@@ -2761,8 +2790,8 @@
         "code": 59741,
         "name": "purged"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 72
     },
     {
@@ -2790,8 +2819,8 @@
         "code": 59696,
         "name": "life-ring"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 73
     },
     {
@@ -2822,8 +2851,8 @@
         "code": 59720,
         "name": "search"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 74
     },
     {
@@ -2860,8 +2889,8 @@
         "code": 59739,
         "name": "terminal"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 75
     },
     {
@@ -2891,8 +2920,8 @@
         "code": 59703,
         "name": "link"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 76
     },
     {
@@ -2925,8 +2954,8 @@
         "code": 59671,
         "name": "external-link"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 77
     },
     {
@@ -2966,8 +2995,8 @@
         "code": 59670,
         "name": "ellipsis"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 78
     },
     {
@@ -2997,8 +3026,8 @@
         "code": 59750,
         "name": "vertical-ellipsis"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 79
     },
     {
@@ -3047,8 +3076,8 @@
         "code": 59663,
         "name": "copy"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 80
     },
     {
@@ -3083,8 +3112,8 @@
         "code": 59677,
         "name": "file"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 81
     },
     {
@@ -3116,8 +3145,8 @@
         "code": 59678,
         "name": "files"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 82
     },
     {
@@ -3147,8 +3176,8 @@
         "code": 59732,
         "name": "catalog"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 83
     },
     {
@@ -3193,8 +3222,8 @@
         "prevSize": 32,
         "code": 59763
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 84
     },
     {
@@ -3239,8 +3268,8 @@
         "prevSize": 32,
         "code": 59764
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 85
     },
     {
@@ -3269,8 +3298,8 @@
         "code": 59679,
         "name": "folder"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 86
     },
     {
@@ -3299,8 +3328,8 @@
         "code": 59680,
         "name": "folder-open"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 87
     },
     {
@@ -3329,8 +3358,8 @@
         "code": 59724,
         "name": "sort"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 88
     },
     {
@@ -3358,8 +3387,8 @@
         "code": 59723,
         "name": "sort-up"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 89
     },
     {
@@ -3387,8 +3416,8 @@
         "code": 59722,
         "name": "sort-down"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 90
     },
     {
@@ -3433,8 +3462,8 @@
         "code": 59681,
         "name": "fork"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 91
     },
     {
@@ -3471,8 +3500,8 @@
         "code": 59695,
         "name": "level-down"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 92
     },
     {
@@ -3502,8 +3531,8 @@
         "code": 59684,
         "name": "hamburger-nav"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 93
     },
     {
@@ -3546,8 +3575,8 @@
         ],
         "name": "tasks"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 94
     },
     {
@@ -3600,8 +3629,8 @@
         "prevSize": 32,
         "code": 59759
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 95
     },
     {
@@ -3654,8 +3683,8 @@
         "prevSize": 32,
         "code": 59760
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 96
     },
     {
@@ -3696,8 +3725,8 @@
         "prevSize": 32,
         "code": 59672
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 97
     },
     {
@@ -3734,8 +3763,8 @@
         "code": 59689,
         "name": "hosts, cluster"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 98
     },
     {
@@ -3765,8 +3794,8 @@
         "code": 59706,
         "name": "logout"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 99
     },
     {
@@ -3803,8 +3832,8 @@
         "code": 59650,
         "name": "apple"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 100
     },
     {
@@ -3874,8 +3903,8 @@
         "code": 59734,
         "name": "docker"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 101
     },
     {
@@ -3908,8 +3937,8 @@
         "code": 59682,
         "name": "github"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 102
     },
     {
@@ -3974,8 +4003,8 @@
         "code": 59692,
         "name": "kubernetes"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 103
     },
     {
@@ -4003,8 +4032,8 @@
         "code": 59704,
         "name": "linux"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 104
     },
     {
@@ -4033,8 +4062,8 @@
         "code": 59718,
         "name": "rancher-cow"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 105
     },
     {
@@ -4067,8 +4096,8 @@
         "code": 59748,
         "name": "windows"
       },
-      "setIdx": 0,
-      "setId": 0,
+      "setIdx": 2,
+      "setId": 1,
       "iconIdx": 106
     }
   ],
