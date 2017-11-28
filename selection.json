@@ -32,7 +32,7 @@
         "code": 59673
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 0
     },
     {
@@ -66,7 +66,7 @@
         "code": 59766
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 1
     },
     {
@@ -100,7 +100,7 @@
         "code": 59767
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 2
     },
     {
@@ -129,7 +129,7 @@
         "name": "circle"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 3
     },
     {
@@ -163,7 +163,7 @@
         "name": "adjust"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 4
     },
     {
@@ -192,7 +192,7 @@
         "name": "circle-o"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 5
     },
     {
@@ -221,7 +221,7 @@
         "name": "dot-diagonalfill"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 6
     },
     {
@@ -250,7 +250,7 @@
         "name": "dot-circlefill"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 7
     },
     {
@@ -286,7 +286,7 @@
         "name": "spinner"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 8
     },
     {
@@ -315,7 +315,7 @@
         "name": "check"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 9
     },
     {
@@ -345,7 +345,7 @@
         "name": "x, close"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 10
     },
     {
@@ -374,7 +374,7 @@
         "name": "chevron-down"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 11
     },
     {
@@ -403,7 +403,7 @@
         "name": "chevron-left"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 12
     },
     {
@@ -432,7 +432,7 @@
         "name": "chevron-right"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 13
     },
     {
@@ -461,7 +461,7 @@
         "name": "chevron-up"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 14
     },
     {
@@ -499,7 +499,7 @@
         "code": 59687
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 15
     },
     {
@@ -537,7 +537,7 @@
         "code": 59754
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 16
     },
     {
@@ -566,7 +566,7 @@
         "name": "plus, medical-cross"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 17
     },
     {
@@ -595,7 +595,7 @@
         "name": "minus"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 18
     },
     {
@@ -624,7 +624,7 @@
         "name": "pause"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 19
     },
     {
@@ -653,7 +653,7 @@
         "name": "play"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 20
     },
     {
@@ -682,7 +682,7 @@
         "name": "stop"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 21
     },
     {
@@ -713,7 +713,7 @@
         "name": "download"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 22
     },
     {
@@ -744,7 +744,7 @@
         "name": "upload"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 23
     },
     {
@@ -786,7 +786,7 @@
         "name": "arrow-circle-up"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 24
     },
     {
@@ -820,7 +820,7 @@
         "code": 59756
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 25
     },
     {
@@ -854,7 +854,7 @@
         "code": 59757
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 26
     },
     {
@@ -888,7 +888,7 @@
         "code": 59758
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 27
     },
     {
@@ -922,7 +922,7 @@
         "name": "auto"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 28
     },
     {
@@ -968,7 +968,7 @@
         "name": "moon"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 29
     },
     {
@@ -1042,7 +1042,7 @@
         "name": "sun"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 30
     },
     {
@@ -1084,7 +1084,7 @@
         "name": "help"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 31
     },
     {
@@ -1126,7 +1126,7 @@
         "name": "info"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 32
     },
     {
@@ -1164,7 +1164,7 @@
         "name": "refresh"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 33
     },
     {
@@ -1202,7 +1202,7 @@
         "name": "success"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 34
     },
     {
@@ -1240,7 +1240,7 @@
         "name": "minus-circle"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 35
     },
     {
@@ -1282,7 +1282,7 @@
         "name": "plus-circle"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 36
     },
     {
@@ -1324,7 +1324,7 @@
         "name": "x-circle"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 37
     },
     {
@@ -1361,7 +1361,7 @@
         "name": "backup, history"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 38
     },
     {
@@ -1398,7 +1398,7 @@
         "name": "snapshot"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 39
     },
     {
@@ -1440,7 +1440,7 @@
         "name": "plus-square"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 40
     },
     {
@@ -1478,7 +1478,7 @@
         "name": "minus-square"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 41
     },
     {
@@ -1520,7 +1520,7 @@
         "name": "x-square"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 42
     },
     {
@@ -1549,7 +1549,7 @@
         "name": "square"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 43
     },
     {
@@ -1647,7 +1647,7 @@
         "name": "cpu"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 44
     },
     {
@@ -1714,7 +1714,7 @@
         "name": "memory"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 45
     },
     {
@@ -1771,7 +1771,7 @@
         "name": "hdd"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 46
     },
     {
@@ -1808,7 +1808,7 @@
         "name": "database"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 47
     },
     {
@@ -1849,7 +1849,7 @@
         "name": "network"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 48
     },
     {
@@ -1879,7 +1879,7 @@
         "name": "vm"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 49
     },
     {
@@ -1913,7 +1913,7 @@
         "name": "box, container, containers"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 50
     },
     {
@@ -1947,7 +1947,7 @@
         "name": "service, services"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 51
     },
     {
@@ -1981,7 +1981,7 @@
         "code": 59762
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 52
     },
     {
@@ -2015,7 +2015,7 @@
         "code": 59761
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 53
     },
     {
@@ -2057,7 +2057,7 @@
         "name": "share"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 54
     },
     {
@@ -2086,7 +2086,7 @@
         "name": "tag"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 55
     },
     {
@@ -2124,7 +2124,7 @@
         "name": "home"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 56
     },
     {
@@ -2155,7 +2155,7 @@
         "name": "certificate"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 57
     },
     {
@@ -2221,7 +2221,7 @@
         "name": "process, processes, gear"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 58
     },
     {
@@ -2255,7 +2255,7 @@
         "code": 59755
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 59
     },
     {
@@ -2288,7 +2288,7 @@
         "name": "user"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 60
     },
     {
@@ -2326,7 +2326,7 @@
         "name": "users"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 61
     },
     {
@@ -2369,7 +2369,7 @@
         "name": "alert"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 62
     },
     {
@@ -2405,7 +2405,7 @@
         "name": "notification"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 63
     },
     {
@@ -2438,7 +2438,7 @@
         "name": "cloud"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 64
     },
     {
@@ -2467,7 +2467,7 @@
         "name": "compass"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 65
     },
     {
@@ -2496,7 +2496,7 @@
         "name": "globe"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 66
     },
     {
@@ -2534,7 +2534,7 @@
         "code": 59765
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 67
     },
     {
@@ -2584,7 +2584,7 @@
         "name": "edit"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 68
     },
     {
@@ -2638,7 +2638,7 @@
         "name": "trash"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 69
     },
     {
@@ -2680,7 +2680,7 @@
         "name": "key"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 70
     },
     {
@@ -2730,7 +2730,7 @@
         "name": "umbrella"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 71
     },
     {
@@ -2762,7 +2762,7 @@
         "name": "purged"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 72
     },
     {
@@ -2791,7 +2791,7 @@
         "name": "life-ring"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 73
     },
     {
@@ -2823,7 +2823,7 @@
         "name": "search"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 74
     },
     {
@@ -2861,7 +2861,7 @@
         "name": "terminal"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 75
     },
     {
@@ -2892,7 +2892,7 @@
         "name": "link"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 76
     },
     {
@@ -2926,7 +2926,7 @@
         "name": "external-link"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 77
     },
     {
@@ -2967,7 +2967,7 @@
         "name": "ellipsis"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 78
     },
     {
@@ -2998,7 +2998,7 @@
         "name": "vertical-ellipsis"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 79
     },
     {
@@ -3048,7 +3048,7 @@
         "name": "copy"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 80
     },
     {
@@ -3084,7 +3084,7 @@
         "name": "file"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 81
     },
     {
@@ -3117,7 +3117,7 @@
         "name": "files"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 82
     },
     {
@@ -3148,7 +3148,7 @@
         "name": "catalog"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 83
     },
     {
@@ -3194,7 +3194,7 @@
         "code": 59763
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 84
     },
     {
@@ -3240,7 +3240,7 @@
         "code": 59764
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 85
     },
     {
@@ -3270,7 +3270,7 @@
         "name": "folder"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 86
     },
     {
@@ -3300,7 +3300,7 @@
         "name": "folder-open"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 87
     },
     {
@@ -3330,7 +3330,7 @@
         "name": "sort"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 88
     },
     {
@@ -3359,7 +3359,7 @@
         "name": "sort-up"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 89
     },
     {
@@ -3388,7 +3388,7 @@
         "name": "sort-down"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 90
     },
     {
@@ -3434,7 +3434,7 @@
         "name": "fork"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 91
     },
     {
@@ -3472,7 +3472,7 @@
         "name": "level-down"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 92
     },
     {
@@ -3503,7 +3503,7 @@
         "name": "hamburger-nav"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 93
     },
     {
@@ -3547,7 +3547,7 @@
         "name": "tasks"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 94
     },
     {
@@ -3601,7 +3601,7 @@
         "code": 59759
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 95
     },
     {
@@ -3655,7 +3655,7 @@
         "code": 59760
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 96
     },
     {
@@ -3697,7 +3697,7 @@
         "code": 59672
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 97
     },
     {
@@ -3735,7 +3735,7 @@
         "name": "hosts, cluster"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 98
     },
     {
@@ -3766,7 +3766,7 @@
         "name": "logout"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 99
     },
     {
@@ -3804,7 +3804,7 @@
         "name": "apple"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 100
     },
     {
@@ -3875,7 +3875,7 @@
         "name": "docker"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 101
     },
     {
@@ -3909,8 +3909,37 @@
         "name": "github"
       },
       "setIdx": 0,
-      "setId": 0,
+      "setId": 1,
       "iconIdx": 102
+    },
+    {
+      "icon": {
+        "paths": [
+          "M329 407c0 0-102.8-315-107.4-331.6-8.2-29.6-34-30.6-44.8 0 0 0-126.2 389.4-148.6 459s-20.6 67.8 0 88.6c13.6 13.6 483.8 348.2 483.8 348.2s470.2-334.6 483.8-348.2c20.6-20.6 22.4-18.8 0-88.6-22.4-69.6-148.6-459-148.6-459-11-30.6-36.6-29.6-44.8 0-4.6 16.6-107.4 331.6-107.4 331.6h-366zM78.4 410.8h246l176.2 536.4-422.2-536.4zM523.6 947.2l176.2-536.4h246l-422.2 536.4z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 16,
+        "tags": [
+          "gitlab"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 641,
+        "id": 122,
+        "name": "gitlab",
+        "prevSize": 32,
+        "code": 59674
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 103
     },
     {
       "icon": {
@@ -3975,8 +4004,8 @@
         "name": "kubernetes"
       },
       "setIdx": 0,
-      "setId": 0,
-      "iconIdx": 103
+      "setId": 1,
+      "iconIdx": 104
     },
     {
       "icon": {
@@ -4004,8 +4033,8 @@
         "name": "linux"
       },
       "setIdx": 0,
-      "setId": 0,
-      "iconIdx": 104
+      "setId": 1,
+      "iconIdx": 105
     },
     {
       "icon": {
@@ -4027,15 +4056,15 @@
       },
       "attrs": [],
       "properties": {
-        "order": 637,
+        "order": 639,
         "id": 105,
         "prevSize": 32,
         "code": 59718,
         "name": "rancher-cow"
       },
       "setIdx": 0,
-      "setId": 0,
-      "iconIdx": 105
+      "setId": 1,
+      "iconIdx": 106
     },
     {
       "icon": {
@@ -4068,8 +4097,8 @@
         "name": "windows"
       },
       "setIdx": 0,
-      "setId": 0,
-      "iconIdx": 106
+      "setId": 1,
+      "iconIdx": 107
     }
   ],
   "height": 1024,
@@ -4111,7 +4140,8 @@
       "includeMetadata": true,
       "noie8": true,
       "ie7": false,
-      "cssVarsFormat": "scss"
+      "cssVarsFormat": "scss",
+      "autoHost": true
     },
     "imagePref": {
       "prefix": "icon-",
@@ -4124,6 +4154,9 @@
     "historySize": 100,
     "showCodes": false,
     "gridSize": 16,
-    "showGrid": true
+    "showGrid": true,
+    "quickUsageToken": {
+      "RANCHER": "MjE1NzY1NTFmYWNiNTVjYWZlZDg0MmJiMzg0NDdlMTMjMSMxNTExODg3NTI0IyMj"
+    }
   }
 }
