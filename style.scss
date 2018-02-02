@@ -3,9 +3,9 @@
 @font-face {
   font-family: 'rancher-icons';
   src:
-    url('#{$icomoon-font-path}/rancher-icons.ttf?f6qell') format('truetype'),
-    url('#{$icomoon-font-path}/rancher-icons.woff?f6qell') format('woff'),
-    url('#{$icomoon-font-path}/rancher-icons.svg?f6qell#rancher-icons') format('svg');
+    url('#{$icomoon-font-path}/rancher-icons.ttf?1875ek') format('truetype'),
+    url('#{$icomoon-font-path}/rancher-icons.woff?1875ek') format('woff'),
+    url('#{$icomoon-font-path}/rancher-icons.svg?1875ek#rancher-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -415,6 +415,16 @@
     content: $icon-trash;
   }
 }
+.icon-unmute {
+  &:before {
+    content: $icon-unmute;
+  }
+}
+.icon-mute {
+  &:before {
+    content: $icon-mute;
+  }
+}
 .icon-key {
   &:before {
     content: $icon-key;
@@ -583,6 +593,11 @@
 .icon-github {
   &:before {
     content: $icon-github;
+  }
+}
+.icon-gitlab {
+  &:before {
+    content: $icon-gitlab;
   }
 }
 .icon-kubernetes {
