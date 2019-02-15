@@ -1,18 +1,18 @@
 @import "variables";
 
 @font-face {
-  font-family: 'rancher-icons';
+  font-family: '#{$icomoon-font-family}';
   src:
-    url('#{$icomoon-font-path}/rancher-icons.ttf?1e7gsz') format('truetype'),
-    url('#{$icomoon-font-path}/rancher-icons.woff?1e7gsz') format('woff'),
-    url('#{$icomoon-font-path}/rancher-icons.svg?1e7gsz#rancher-icons') format('svg');
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?4qk1zn') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?4qk1zn') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?4qk1zn##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 .icon {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'rancher-icons' !important;
+  font-family: '#{$icomoon-font-family}' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
