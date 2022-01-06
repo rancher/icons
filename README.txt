@@ -1,5 +1,17 @@
-Open *demo.html* to see a list of all the glyphs in your font along with their codes/ligatures.
+Rancher Icons
+=============
 
-You won't need any of the files located under the *demo-files* directory when including the generated font in your own projects.
+Icons used by the Rancher Dashboard UI.
 
-You can import *selection.json* back to the IcoMoon app using the *Import Icons* button (or via Main Menu > Manage Projects) to retrieve your icon selection.
+To build the icon font:
+
+- npm install
+- npm run build
+
+The font files are generated in the 'dist' folder.
+
+You can open the file 'demo.html' in the dist folder to view the available icons.
+
+Once built, you can copy the build font to a local copy of the Rancher Dashboard UI with:
+
+npm run copy <DASHBOARD_FOLDER>
