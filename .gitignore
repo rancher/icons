@@ -12,3 +12,5 @@ npm-debug.log
 .tern-port
 dist
 font
+upload
+yarn-error.log

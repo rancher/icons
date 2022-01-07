@@ -81,12 +81,10 @@ async function main() {
 
   // Move the files around to match what we use in Rancher Dashboard
 
-
   // Copy the font files we want
   copyFile(`${NAME}.svg`, fontDist, iconFontDist);
   copyFile(`${NAME}.ttf`, fontDist, iconFontDist);
   copyFile(`${NAME}.woff`, fontDist, iconFontDist);
-
 
   copyFile(`style.scss`, fontDist, iconDist);
   copyFile(`variables.scss`, fontDist, iconDist);
@@ -98,6 +96,15 @@ async function main() {
   // Copy the README file
   copyFile('ICONS.txt', process.cwd(), iconDist, 'README.txt');
   copyFile('LICENSE', process.cwd(), iconDist);
+  
+  // Copy the package file
+  copyFile('icons-package.json', process.cwd(), iconDist, 'package.json');
+  const package = require(path.resolve(process.cwd(), 'package.json'));
+
+  console.log(package.version);
+  const distPackage = require(path.resolve(process.cwd(), 'icons-package.json'));
+  distPackage.version = package.version;
+  fs.writeFileSync(path.join(iconDist, 'package.json'), JSON.stringify(distPackage, null, 2));
 
   // Delete the temp fonts dist
   deleteFolder(fontDist);

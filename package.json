@@ -9,12 +9,13 @@
   "scripts": {
     "build": "node build.js && npm run opt",
     "opt": "svgo dist/icons/fonts/icons.svg -o dist/icons/fonts/icons.svg",
-    "copy": "node copy.js"
+    "copy": "node copy.js",
+    "upload": "./publish.sh"
   },
   "author": "Rancher Labs, Inc.",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/rancher/rancher/issues"
+    "url": "https://github.com/rancher/dashboard/issues"
   },
   "homepage": "https://github.com/rancher/icons#readme",
   "devDependencies": {
