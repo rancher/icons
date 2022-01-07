@@ -32,7 +32,7 @@ const dest = path.resolve(args[0]);
 console.log('Copying font files to Rancher Dashboard UI: ' + dest);
 
 // Check the folder exists
-const iconDest = path.resolve(dest, 'assets', 'fonts', 'icons');
+const iconDest = path.resolve(dest, 'node_modules', 'rancher-icons');
 
 if (!fs.existsSync(iconDest)) {
   console.error(`Folder ${iconDest} does not exist - are you sure the folder you specified is a Rancher Dashboard folder?`);

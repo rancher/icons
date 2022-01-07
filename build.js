@@ -48,8 +48,9 @@ async function main() {
       cssPath: 'fonts/',
     },
     svgicons2svgfont: {
-      fontHeight: 1000,
-      normalize: true
+      // fontHeight: 1000,
+      normalize: true,
+      centerHorizontally: true
     },
     styleTemplates: path.resolve(process.cwd(), 'templates'),
     classNamePrefix: 'icon',
@@ -105,6 +106,16 @@ async function main() {
   const distPackage = require(path.resolve(process.cwd(), 'icons-package.json'));
   distPackage.version = package.version;
   fs.writeFileSync(path.join(iconDist, 'package.json'), JSON.stringify(distPackage, null, 2));
+
+  // Add in the aliasses to style.scss
+  const aliases = require(path.resolve(process.cwd(), 'aliases.json'));
+  Object.keys(aliases).forEach(key => {
+    console.log(key);
+    aliases[key].forEach(alias => {
+      console.log(' ' + alias);
+      fs.appendFileSync(path.join(iconDist, 'style.scss'), `.icon-${alias}:before { content: $icon-${key}; }\n`);
+    })
+  });
 
   // Delete the temp fonts dist
   deleteFolder(fontDist);

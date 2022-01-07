@@ -30,7 +30,10 @@
       padding: 20px 0;
       font-size: 14px;
     }
-
+    .counts {
+      text-align: center;
+      font-size: 16px;
+    }
     .icons { max-width: 1190px; margin: 0 auto; }
     .icons ul { text-align: center; display: flex; flex-wrap: wrap; }
     .icons ul li {
@@ -67,7 +70,7 @@
     <%if(_type === 'font-class') {%>
     .icons ul li.class-icon { font-size: 21px; line-height: 21px; padding-bottom: 20px; }
     .icons ul li.class-icon p{ font-size: 12px; }
-    .icons ul li.class-icon [class^="<%=classNamePrefix%>-"]{ font-size: 48px; }
+    .icons ul li.class-icon [class^="<%=classNamePrefix%>-"]{ font-size: 48px; color: #000; background-color: #eee; }
     <%}%>
     <%if(_type === 'unicode') {%>
     .icons ul .unicode-icon span { display: block; }
@@ -116,9 +119,15 @@
     }
   </style>
   <%}%>
+  <script>
+    function counts() {
+      var counts = document.getElementsByClassName('class-icon').length;
+      document.getElementById('icon-count').innerText = counts + ' icons';
+    }
+  </script>
 </head>
 
-<body>
+<body onload="counts()">
   <%if(corners && corners.url) {%>
     <a href="<%-corners.url || '#'%>" target="__blank" class="github-corner">
       <svg width="<%-corners.width || 60%>" height="<%-corners.width || 60%>" viewBox="0 0 250 250" aria-hidden="true" style="fill: <%-corners.bgColor || '#151513'%>; color: rgb(255, 255, 255); ">
@@ -136,6 +145,7 @@
       <%})}%>
     </p>
   </div>
+  <div class="counts" id="icon-count"></div>
   <div class="icons">
     <ul>
       <%-_IconHtml%>
