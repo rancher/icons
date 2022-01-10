@@ -8,6 +8,15 @@ echo ${DIR}
 
 echo "Upload new icons dist to the git repository"
 
+FORCE=false
+
+while getopts f flag
+do
+    case "${flag}" in
+        f) FORCE=true;;
+    esac
+done
+
 VERSION=$(node -pe "require('./package.json').version")
 COMMIT=$(git rev-parse --short HEAD)
 echo ${VERSION}
@@ -15,7 +24,9 @@ echo ${COMMIT}
 
 if [ ! -z "$(git status --porcelain)" ]; then 
   echo "Working directory is not clean - commit changes before uploading font"
-  #exit 1
+  if [ "$FORCE" == "false" ]; then
+    exit 1
+  fi
 fi
 
 # Check the a branch for this version of the buit icon font does not exist already
@@ -23,7 +34,9 @@ INFO=$(git ls-remote --heads ${REPO} v${VERSION})
 if [ -n "${INFO}" ]; then
   echo "A branch named v${VERSION} already exists in the icons repository - can't change an already published version"
   echo "Update the version in the package.json file"
-  #exit 1
+  if [ "$FORCE" == "false" ]; then
+    exit 1
+  fi
 fi
 
 echo "Building font ..."
