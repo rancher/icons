@@ -50,7 +50,6 @@ async function main() {
     svgicons2svgfont: {
       // fontHeight: 1000,
       normalize: true,
-      centerHorizontally: true
     },
     styleTemplates: path.resolve(process.cwd(), 'templates'),
     classNamePrefix: 'icon',

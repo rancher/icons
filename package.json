@@ -18,17 +18,8 @@
     "url": "https://github.com/rancher/dashboard/issues"
   },
   "homepage": "https://github.com/rancher/icons#readme",
-  "devDependencies": {
-    "@semantic-release/gitlab": "^2.1.4",
-    "conventional-changelog-eslint": "^1.0.9",
-    "grunt": "^1.0.3",
-    "grunt-contrib-copy": "^1.0.0",
-    "grunt-webfonts": "^3.0.1",
-    "semantic-release": "^15.9.12",
-    "svgtofont": "^3.9.1",
-    "fs-extra": "^9.1.0"
-  },
   "dependencies": {
-    "svgo": "^2.3.0"
+    "fs-extra": "^9.1.0",
+    "svgtofont": "^3.13.1"
   }
 }
