@@ -50,7 +50,7 @@ DIST=${DIR}/dist/icons/
 if [ ${INPLACE} == 'true' ]; then
   echo "Updating in-place with checked out repository"
   TEMPDIR=$(mktemp -d)
-  cp ${DIST} ${TEMPDIR}
+  cp -R ${DIST} ${TEMPDIR}
   $DIST=${TEMPDIR}
   pushd .
 else
