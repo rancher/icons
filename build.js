@@ -91,7 +91,7 @@ async function main() {
   copyFile(`style.css`, fontDist, iconDist);
 
   // Copy the index file
-  copyFile(`index.html`, fontDist, iconDist, 'demo.html');
+  copyFile(`index.html`, fontDist, iconDist, 'index.html');
 
   // Copy the README file
   copyFile('ICONS.txt', process.cwd(), iconDist, 'README.txt');
