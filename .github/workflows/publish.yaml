@@ -1,0 +1,23 @@
+name: publish-icons
+on:
+  push:
+    branches:
+      - 'master'
+   paths:
+     - 'package.json'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '14.x'
+    - name: script
+      run: |
+        git config --global user.name 'Rancher Icons'
+        git config --global user.email 'noreply@rancher.com'
+        yarn install
+        yarn run upload -i
