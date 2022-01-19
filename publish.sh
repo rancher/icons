@@ -62,16 +62,16 @@ else
 fi
 
 # Update the dist branch - this is the latest build of the icon font
-git checkout dist
+git checkout -B dist
 rm -rf *
 cp -R ${DIST} .
 git add -A
 git commit -m "Rancher Icons updated for version ${VERSION}, commit ${COMMIT}"
-#git push origin dist
+git push origin dist
 
 # Create a branch named v{VERSION} and push that
-git checkout -b v${VERSION}
-#git push origin v${VERSION}
+git checkout -B v${VERSION}
+git push origin v${VERSION}
 
 popd
 
