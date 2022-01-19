@@ -9,11 +9,13 @@ echo ${DIR}
 echo "Upload new icons dist to the git repository"
 
 FORCE=false
+INPLACE=false
 
-while getopts f flag
+while getopts fi flag
 do
     case "${flag}" in
         f) FORCE=true;;
+        i) INPLACE=true;;
     esac
 done
 
@@ -42,23 +44,34 @@ fi
 echo "Building font ..."
 npm run build
 
-echo "Cloning icon repository"
-rm -rf ${UPLOAD}
-mkdir ${UPLOAD}
-git clone ${REPO} ${UPLOAD}
-cd ${UPLOAD}
+DIST=${DIR}/dist/icons/
+
+if [ ${INPLACE} == 'true' ]; then
+  echo "Updating in-place with checked out repository"
+  TEMPDIR=$(mktemp -d)
+  cp ${DIST} ${TEMPDIR}
+  $DIST=${TEMPDIR}
+  pushd .
+else
+  echo "Cloning icon repository"
+  rm -rf ${UPLOAD}
+  mkdir ${UPLOAD}
+  git clone ${REPO} ${UPLOAD}
+  pushd ${UPLOAD}
+fi
+
 # Update the dist branch - this is the latest build of the icon font
 git checkout dist
 rm -rf *
-cp -R ${DIR}/dist/icons/ .
+cp -R ${DIST} .
 git add -A
 git commit -m "Rancher Icons updated for version ${VERSION}, commit ${COMMIT}"
-git push origin dist
+#git push origin dist
 
 # Create a branch named v{VERSION} and push that
 git checkout -b v${VERSION}
-git push origin v${VERSION}
+#git push origin v${VERSION}
 
-cd ..
+popd
 
 echo "All done"
