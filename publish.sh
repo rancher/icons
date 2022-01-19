@@ -2,11 +2,12 @@
 set -e
 
 UPLOAD=upload
-REPO=git@github.com:rancher/icons.git
+REPO=$(git config --get remote.origin.url)
 DIR=$(cd $(dirname $0); pwd)
-echo ${DIR}
 
 echo "Upload new icons dist to the git repository"
+echo ${DIR}
+echo ${REPO}
 
 FORCE=false
 INPLACE=false
@@ -66,11 +67,11 @@ rm -rf *
 cp -R ${DIST} .
 git add -A
 git commit -m "Rancher Icons updated for version ${VERSION}, commit ${COMMIT}"
-#git push origin dist
+git push origin dist
 
 # Create a branch named v{VERSION} and push that
 git checkout -b v${VERSION}
-#git push origin v${VERSION}
+git push origin v${VERSION}
 
 popd
 
