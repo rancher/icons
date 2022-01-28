@@ -1,6 +1,6 @@
 {
   "name": "rancher-icons",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Rancher icon font",
   "repository": {
     "type": "git",
@@ -12,14 +12,14 @@
     "copy": "node copy.js",
     "upload": "./publish.sh"
   },
-  "author": "Rancher Labs, Inc.",
+  "author": "SUSE",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/rancher/dashboard/issues"
   },
   "homepage": "https://github.com/rancher/icons#readme",
   "dependencies": {
-    "fs-extra": "^9.1.0",
-    "svgtofont": "^3.13.1"
+    "fs-extra": "^10.0.0",
+    "svgtofont": "^3.14.0"
   }
 }
