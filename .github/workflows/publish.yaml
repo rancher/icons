@@ -2,9 +2,9 @@ name: publish-icons
 on:
   push:
     branches:
-      - 'master'
-   paths:
-     - 'package.json'
+    - 'master'
+    paths:
+    - 'package.json'
 
 jobs:
   publish:
