@@ -50,8 +50,9 @@ DIST=${DIR}/dist/icons/
 if [ ${INPLACE} == 'true' ]; then
   echo "Updating in-place with checked out repository"
   TEMPDIR=$(mktemp -d)
-  cp -R ${DIST} ${TEMPDIR}
-  DIST=${TEMPDIR}/
+  cp -R ${DIST} ${TEMPDIR}/
+  echo ${TEMPDIR}
+  DIST=${TEMPDIR}/icons/
   pushd .
 else
   echo "Cloning icon repository"
@@ -64,7 +65,7 @@ fi
 # Update the dist branch - this is the latest build of the icon font
 git checkout -B dist
 rm -rf *
-cp -R ${DIST} .
+rsync -av ${DIST} .
 git add -A
 git commit -m "Rancher Icons updated for version ${VERSION}, commit ${COMMIT}"
 git push origin dist --force
