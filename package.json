@@ -1,25 +1,15 @@
 {
   "name": "rancher-icons",
-  "version": "2.0.14",
+  "version": "2.0.15",
   "description": "Rancher icon font",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rancher/icons.git"
-  },
-  "scripts": {
-    "build": "node build.js && npm run opt",
-    "opt": "svgo dist/icons/fonts/icons.svg -o dist/icons/fonts/icons.svg",
-    "copy": "node copy.js",
-    "upload": "./publish.sh"
   },
   "author": "SUSE",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/rancher/dashboard/issues"
   },
-  "homepage": "https://github.com/rancher/icons#readme",
-  "dependencies": {
-    "fs-extra": "^10.0.0",
-    "svgtofont": "^3.14.0"
-  }
+  "homepage": "https://github.com/rancher/icons#readme"
 }
