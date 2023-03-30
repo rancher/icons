@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Rancher Icons</title>
+  <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  
+  
+  
+  <link rel="stylesheet" href="style.css?v2.0.16" />
+  
+  <style>
+    *{margin: 0;padding: 0;list-style: none;}
+    body { color: #696969; font: 12px/1.5 tahoma, arial, \5b8b\4f53, sans-serif; }
+    a { color: #333; text-decoration: underline; }
+    a:hover { color: rgb(9, 73, 209); }
+    .header { color: #333; text-align: center; padding: 20px 0 20px 0; font-size: 14px; }
+    .header .logo svg { height: 120px; width: 120px; }
+    .header h1 { font-size: 42px; padding: 0; }
+    .header sup {font-size: 14px; margin: 8px 0 0 8px; position: absolute; color: #7b7b7b; }
+    .info {
+      color: #999;
+      font-weight: normal;
+      max-width: 346px;
+      margin: 0 auto;
+      padding: 20px 0;
+      font-size: 14px;
+    }
+    .counts {
+      text-align: center;
+      font-size: 16px;
+    }
+    .icons { max-width: 1190px; margin: 0 auto; }
+    .icons ul { text-align: center; display: flex; flex-wrap: wrap; }
+    .icons ul li {
+      vertical-align: top;
+      width: 120px;
+      display: inline-block;
+      text-align: center;
+      background-color: rgba(0,0,0,.02);
+      border-radius: 3px;
+      padding: 29px 0 10px 0;
+      margin-right: 10px;
+      margin-top: 10px;
+      transition: all 0.6s ease;
+    }
+    .icons ul li:hover { background-color: rgba(0,0,0,.06); }
+    .icons ul li:hover span { color: #3c75e4; opacity: 1; }
+    .icons ul li .unicode { color: #8c8c8c; opacity: 0.3; }
+    .icons ul li h4 {
+      font-weight: normal;
+      padding: 10px 0 5px 0;
+      display: block;
+      color: #8c8c8c;
+      font-size: 14px;
+      line-height: 12px;
+      opacity: 0.8;
+    }
+    .icons ul li:hover h4 { opacity: 1; }
+    .icons ul li svg { width: 24px; height: 24px; }
+    .icons ul li:hover { color: #3c75e4; }
+    .footer { text-align: center; padding: 10px 0 90px 0; }
+    .footer a { text-align: center; padding: 10px 0 90px 0; color: #696969;}
+    .footer a:hover { color: #0949d1; }
+    .links { text-align: center; padding: 50px 0 0 0; font-size: 14px; }
+    
+    .icons ul li.class-icon { font-size: 21px; line-height: 21px; padding-bottom: 20px; }
+    .icons ul li.class-icon p{ font-size: 12px; }
+    .icons ul li.class-icon [class^="icon-"]{ font-size: 48px; color: #000; background-color: #eee; }
+    
+    
+    
+  </style>
+  
+  <script>
+    function counts() {
+      var counts = document.getElementsByClassName('class-icon').length;
+      document.getElementById('icon-count').innerText = counts + ' icons';
+    }
+  </script>
+</head>
+
+<body onload="counts()">
+  
+  <div class="header">
+    <h1>Rancher Icons<sup>2.0.16</sup></h1>
+    <p>
+      
+    </p>
+  </div>
+  <div class="counts" id="icon-count"></div>
+  <div class="icons">
+    <ul>
+      <li class="class-icon"><i class="icon-actions"></i><p class="name">actions</p></li><li class="class-icon"><i class="icon-alert"></i><p class="name">alert</p></li><li class="class-icon"><i class="icon-apple"></i><p class="name">apple</p></li><li class="class-icon"><i class="icon-application"></i><p class="name">application</p></li><li class="class-icon"><i class="icon-apps"></i><p class="name">apps</p></li><li class="class-icon"><i class="icon-archive"></i><p class="name">archive</p></li><li class="class-icon"><i class="icon-backup-restore"></i><p class="name">backup-restore</p></li><li class="class-icon"><i class="icon-backup"></i><p class="name">backup</p></li><li class="class-icon"><i class="icon-checkmark"></i><p class="name">checkmark</p></li><li class="class-icon"><i class="icon-chevron-beginning"></i><p class="name">chevron-beginning</p></li><li class="class-icon"><i class="icon-chevron-down"></i><p class="name">chevron-down</p></li><li class="class-icon"><i class="icon-chevron-end"></i><p class="name">chevron-end</p></li><li class="class-icon"><i class="icon-chevron-left"></i><p class="name">chevron-left</p></li><li class="class-icon"><i class="icon-chevron-right"></i><p class="name">chevron-right</p></li><li class="class-icon"><i class="icon-chevron-up"></i><p class="name">chevron-up</p></li><li class="class-icon"><i class="icon-circle-plus"></i><p class="name">circle-plus</p></li><li class="class-icon"><i class="icon-cis"></i><p class="name">cis</p></li><li class="class-icon"><i class="icon-close"></i><p class="name">close</p></li><li class="class-icon"><i class="icon-cluster-management"></i><p class="name">cluster-management</p></li><li class="class-icon"><i class="icon-cluster"></i><p class="name">cluster</p></li><li class="class-icon"><i class="icon-code"></i><p class="name">code</p></li><li class="class-icon"><i class="icon-comment"></i><p class="name">comment</p></li><li class="class-icon"><i class="icon-commit"></i><p class="name">commit</p></li><li class="class-icon"><i class="icon-compass"></i><p class="name">compass</p></li><li class="class-icon"><i class="icon-copy"></i><p class="name">copy</p></li><li class="class-icon"><i class="icon-dashboard"></i><p class="name">dashboard</p></li><li class="class-icon"><i class="icon-dock"></i><p class="name">dock</p></li><li class="class-icon"><i class="icon-docker"></i><p class="name">docker</p></li><li class="class-icon"><i class="icon-dot-half"></i><p class="name">dot-half</p></li><li class="class-icon"><i class="icon-dot-open"></i><p class="name">dot-open</p></li><li class="class-icon"><i class="icon-dot"></i><p class="name">dot</p></li><li class="class-icon"><i class="icon-download"></i><p class="name">download</p></li><li class="class-icon"><i class="icon-edit"></i><p class="name">edit</p></li><li class="class-icon"><i class="icon-elemental"></i><p class="name">elemental</p></li><li class="class-icon"><i class="icon-endpoints_connected"></i><p class="name">endpoints_connected</p></li><li class="class-icon"><i class="icon-epinio"></i><p class="name">epinio</p></li><li class="class-icon"><i class="icon-error"></i><p class="name">error</p></li><li class="class-icon"><i class="icon-explore"></i><p class="name">explore</p></li><li class="class-icon"><i class="icon-extension"></i><p class="name">extension</p></li><li class="class-icon"><i class="icon-external-link"></i><p class="name">external-link</p></li><li class="class-icon"><i class="icon-file"></i><p class="name">file</p></li><li class="class-icon"><i class="icon-filter_alt"></i><p class="name">filter_alt</p></li><li class="class-icon"><i class="icon-fleet"></i><p class="name">fleet</p></li><li class="class-icon"><i class="icon-folder"></i><p class="name">folder</p></li><li class="class-icon"><i class="icon-fork"></i><p class="name">fork</p></li><li class="class-icon"><i class="icon-gatekeeper"></i><p class="name">gatekeeper</p></li><li class="class-icon"><i class="icon-gear"></i><p class="name">gear</p></li><li class="class-icon"><i class="icon-github"></i><p class="name">github</p></li><li class="class-icon"><i class="icon-gitlab"></i><p class="name">gitlab</p></li><li class="class-icon"><i class="icon-globe"></i><p class="name">globe</p></li><li class="class-icon"><i class="icon-groups"></i><p class="name">groups</p></li><li class="class-icon"><i class="icon-harvester"></i><p class="name">harvester</p></li><li class="class-icon"><i class="icon-hide"></i><p class="name">hide</p></li><li class="class-icon"><i class="icon-history"></i><p class="name">history</p></li><li class="class-icon"><i class="icon-home"></i><p class="name">home</p></li><li class="class-icon"><i class="icon-info"></i><p class="name">info</p></li><li class="class-icon"><i class="icon-istio"></i><p class="name">istio</p></li><li class="class-icon"><i class="icon-linux"></i><p class="name">linux</p></li><li class="class-icon"><i class="icon-list-flat"></i><p class="name">list-flat</p></li><li class="class-icon"><i class="icon-list-grouped"></i><p class="name">list-grouped</p></li><li class="class-icon"><i class="icon-lock"></i><p class="name">lock</p></li><li class="class-icon"><i class="icon-logging"></i><p class="name">logging</p></li><li class="class-icon"><i class="icon-longhorn"></i><p class="name">longhorn</p></li><li class="class-icon"><i class="icon-marketplace"></i><p class="name">marketplace</p></li><li class="class-icon"><i class="icon-menu"></i><p class="name">menu</p></li><li class="class-icon"><i class="icon-minus"></i><p class="name">minus</p></li><li class="class-icon"><i class="icon-monitoring"></i><p class="name">monitoring</p></li><li class="class-icon"><i class="icon-more"></i><p class="name">more</p></li><li class="class-icon"><i class="icon-namespace"></i><p class="name">namespace</p></li><li class="class-icon"><i class="icon-notifier"></i><p class="name">notifier</p></li><li class="class-icon"><i class="icon-os-management"></i><p class="name">os-management</p></li><li class="class-icon"><i class="icon-pause"></i><p class="name">pause</p></li><li class="class-icon"><i class="icon-pipeline"></i><p class="name">pipeline</p></li><li class="class-icon"><i class="icon-play"></i><p class="name">play</p></li><li class="class-icon"><i class="icon-plus"></i><p class="name">plus</p></li><li class="class-icon"><i class="icon-pod_security"></i><p class="name">pod_security</p></li><li class="class-icon"><i class="icon-question-mark"></i><p class="name">question-mark</p></li><li class="class-icon"><i class="icon-rancher-desktop"></i><p class="name">rancher-desktop</p></li><li class="class-icon"><i class="icon-refresh"></i><p class="name">refresh</p></li><li class="class-icon"><i class="icon-repository"></i><p class="name">repository</p></li><li class="class-icon"><i class="icon-rio"></i><p class="name">rio</p></li><li class="class-icon"><i class="icon-role-binding"></i><p class="name">role-binding</p></li><li class="class-icon"><i class="icon-search"></i><p class="name">search</p></li><li class="class-icon"><i class="icon-service"></i><p class="name">service</p></li><li class="class-icon"><i class="icon-show"></i><p class="name">show</p></li><li class="class-icon"><i class="icon-snapshot"></i><p class="name">snapshot</p></li><li class="class-icon"><i class="icon-sort-down"></i><p class="name">sort-down</p></li><li class="class-icon"><i class="icon-sort-up"></i><p class="name">sort-up</p></li><li class="class-icon"><i class="icon-sort"></i><p class="name">sort</p></li><li class="class-icon"><i class="icon-spinner"></i><p class="name">spinner</p></li><li class="class-icon"><i class="icon-star-open"></i><p class="name">star-open</p></li><li class="class-icon"><i class="icon-star"></i><p class="name">star</p></li><li class="class-icon"><i class="icon-storage"></i><p class="name">storage</p></li><li class="class-icon"><i class="icon-terminal"></i><p class="name">terminal</p></li><li class="class-icon"><i class="icon-trash"></i><p class="name">trash</p></li><li class="class-icon"><i class="icon-unlock"></i><p class="name">unlock</p></li><li class="class-icon"><i class="icon-upload"></i><p class="name">upload</p></li><li class="class-icon"><i class="icon-user"></i><p class="name">user</p></li><li class="class-icon"><i class="icon-warning"></i><p class="name">warning</p></li><li class="class-icon"><i class="icon-windows"></i><p class="name">windows</p></li>
+    </ul>
+  </div>
+  <p class="links">
+    
+  </p>
+  <div class="footer">
+    
+  </div>
+</body>
+
+</html>
