@@ -7,7 +7,7 @@ Icons used by the Rancher Dashboard UI.
 
 You can preview the icons available here: https://rancher.github.io/icons/
 
-To build the icon font:
+To build the icon font locally, run the following commands:
 
 - yarn install
 - yarn build
@@ -18,10 +18,11 @@ You can open the file `index.html` in the dist folder to view the available icon
 
 # Updating the Icon Font
 
-1. Add any new SVGs to the `svg` folder
+1. Add any new SVGs to the `svg/` folder
 1. Update the version number in `package.json`
 1. Commit the changes to this repository
-1. Build and upload the font by running `yarn run upload`
+
+Once merged into the `master` branch, the GitHub Action will automatically build the icon font and publish it to NPM.
 
 # Developing locally
 
