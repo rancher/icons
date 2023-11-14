@@ -14,3 +14,4 @@ dist
 font
 upload
 yarn-error.log
+package-lock.json
