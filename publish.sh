@@ -76,4 +76,23 @@ git push origin v${VERSION}
 
 popd
 
+# Publish to npm if a node auth token is set in the environment
+if [ -n "${NODE_AUTH_TOKEN}" ]; then
+  echo "Publishing @rancher/icons to npm"
+
+  pushd dist/icons >/dev/null
+
+  PUBLISH_ARGS="--no-git-tag-version --access public"
+
+  yarn publish . --new-version ${VERSION} ${PUBLISH_ARGS}
+  RET=$?
+
+  popd >/dev/null
+
+  if [ $RET -ne 0 ]; then
+    echo "Error publishing @rancher/icons package to npm"
+    exit $RET
+  fi
+fi
+
 echo "All done"

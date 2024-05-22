@@ -21,3 +21,5 @@ jobs:
         git config --global user.email 'noreply@rancher.com'
         yarn install
         yarn run upload -i
+      env:
+        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}        
