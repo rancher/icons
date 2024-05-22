@@ -20,6 +20,7 @@ You can open the file `index.html` in the dist folder to view the available icon
 
 1. Add any new SVGs to the `svg/` folder
 1. Update the version number in `package.json`
+1. Update `CHANGELOG.md` to include the new version number and detail icons added/removed
 1. Commit the changes to this repository
 
 Once merged into the `master` branch, the GitHub Action will automatically build the icon font and publish it to NPM.
