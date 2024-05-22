@@ -101,7 +101,6 @@ async function main() {
   copyFile('icons-package.json', process.cwd(), iconDist, 'package.json');
   const package = require(path.resolve(process.cwd(), 'package.json'));
 
-  console.log(package.version);
   const distPackage = require(path.resolve(process.cwd(), 'icons-package.json'));
   distPackage.version = package.version;
   fs.writeFileSync(path.join(iconDist, 'package.json'), JSON.stringify(distPackage, null, 2));
@@ -109,15 +108,17 @@ async function main() {
   // Add in the aliasses to style.scss
   const aliases = require(path.resolve(process.cwd(), 'aliases.json'));
   Object.keys(aliases).forEach(key => {
-    console.log(key);
+    // console.log(key);
     aliases[key].forEach(alias => {
-      console.log(' ' + alias);
+      console.log(`Alias: ${alias } for ${ key }`);
       fs.appendFileSync(path.join(iconDist, 'style.scss'), `.icon-${alias}:before { content: $icon-${key}; }\n`);
     })
   });
 
   // Delete the temp fonts dist
   deleteFolder(fontDist);
+
+  console.log(`Version: ${ package.version }`);
 }
 
 main();
