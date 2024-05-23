@@ -20,6 +20,6 @@ jobs:
         git config --global user.name 'Rancher Icons'
         git config --global user.email 'noreply@rancher.com'
         yarn install
-        yarn run upload -i
+        yarn run upload -i -f
       env:
         NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}        
