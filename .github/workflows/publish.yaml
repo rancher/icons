@@ -24,4 +24,4 @@ jobs:
         git config --global user.name 'Rancher Icons'
         git config --global user.email 'noreply@rancher.com'
         yarn install
-        yarn run upload -i -f
+        yarn run upload -i
