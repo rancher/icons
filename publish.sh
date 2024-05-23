@@ -80,14 +80,17 @@ popd
 if [ -n "${NODE_AUTH_TOKEN}" ]; then
   echo "Publishing @rancher/icons to npm"
 
-  pushd dist/icons >/dev/null
-
+  pwd
+  pushd ${DIST}
+  pwd
+  ls -al
+  
   PUBLISH_ARGS="--no-git-tag-version --access public"
 
   yarn publish . --new-version ${VERSION} ${PUBLISH_ARGS}
   RET=$?
 
-  popd >/dev/null
+  popd
 
   if [ $RET -ne 0 ]; then
     echo "Error publishing @rancher/icons package to npm"
