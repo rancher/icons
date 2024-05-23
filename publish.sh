@@ -82,8 +82,6 @@ if [ -n "${NODE_AUTH_TOKEN}" ]; then
     echo "Error publishing @rancher/icons package to npm"
     exit $RET
   fi
-
-  exit 0
 fi
 
 # Update the dist branch - this is the latest build of the icon font
