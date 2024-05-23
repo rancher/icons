@@ -62,20 +62,6 @@ else
   pushd ${UPLOAD}
 fi
 
-# Update the dist branch - this is the latest build of the icon font
-git checkout -B dist
-rm -rf *
-rsync -av ${DIST} .
-git add -A
-git commit -m "Rancher Icons updated for version ${VERSION}, commit ${COMMIT}"
-git push origin dist --force
-
-# Create a branch named v{VERSION} and push that
-git checkout -B v${VERSION}
-git push origin v${VERSION}
-
-popd
-
 # Publish to npm if a node auth token is set in the environment
 if [ -n "${NODE_AUTH_TOKEN}" ]; then
   echo "Publishing @rancher/icons to npm"
@@ -96,6 +82,22 @@ if [ -n "${NODE_AUTH_TOKEN}" ]; then
     echo "Error publishing @rancher/icons package to npm"
     exit $RET
   fi
+
+  exit 0
 fi
+
+# Update the dist branch - this is the latest build of the icon font
+git checkout -B dist
+rm -rf *
+rsync -av ${DIST} .
+git add -A
+git commit -m "Rancher Icons updated for version ${VERSION}, commit ${COMMIT}"
+git push origin dist --force
+
+# Create a branch named v{VERSION} and push that
+git checkout -B v${VERSION}
+git push origin v${VERSION}
+
+popd
 
 echo "All done"
