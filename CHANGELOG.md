@@ -4,6 +4,14 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
+| 2.0.36  | Fixed alert-alt icon <img src="./svg/alert-alt.svg"/>                           |
+|         | Fixed category-alt icon <img src="./svg/category-alt.svg"/>                     |
+|         | Fixed confirmation-alt icon <img src="./svg/confirmation-alt.svg"/>             |
+|         | Fixed refresh-alt icon <img src="./svg/refresh-alt.svg"/>                       |
+|         | Fixed repository-alt icon <img src="./svg/repository-alt.svg"/>                 |
+|         | Fixed tag-alt icon <img src="./svg/tag-alt.svg"/>                               |
+|         | Fixed upgrade-alt icon <img src="./svg/upgrade-alt.svg"/>                       |
+|         | Fixed version-alt icon <img src="./svg/version-alt.svg"/>                       |
 | 2.0.35  | Updated search icon <img src="./svg/search.svg"/>                               |
 |         | Added alert-alt icon <img src="./svg/alert-alt.svg"/>                           |
 |         | Added category-alt icon <img src="./svg/category-alt.svg"/>                     |
