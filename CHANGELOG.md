@@ -4,6 +4,13 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
+| 2.0.37  | Fixed notify-announcement icon <img src="./svg/notify-announcement.svg"/        |
+|         | Fixed notify-bell icon <img src="./svg/notify-bell.svg"/>                       |
+|         | Fixed notify-busy icon <img src="./svg/notify-busy.svg"/>                       |
+|         | Fixed notify-error icon <img src="./svg/notify-error.svg"/>                     |
+|         | Fixed notify-info icon <img src="./svg/notify-info.svg"/>                       |
+|         | Fixed notify-tick icon <img src="./svg/notify-tick.svg"/>                       |
+|         | Fixed notify-warning icon <img src="./svg/notify-warning.svg"/>                 |
 | 2.0.36  | Fixed alert-alt icon <img src="./svg/alert-alt.svg"/>                           |
 |         | Fixed category-alt icon <img src="./svg/category-alt.svg"/>                     |
 |         | Fixed confirmation-alt icon <img src="./svg/confirmation-alt.svg"/>             |
