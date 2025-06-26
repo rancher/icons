@@ -4,6 +4,7 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
+| 2.0.56  | Added virtual-clusters icon <img src="./svg/virtual-clusters.svg"/>             |
 | 2.0.55  | Fixed send icon <img src="./svg/send.svg"/>                                     |
 | 2.0.54  | Added ai icon <img src="./svg/aws-bedrock.svg"/>                                |
 | 2.0.53  | Fixed ai icon <img src="./svg/ai.svg"/>                                         |
