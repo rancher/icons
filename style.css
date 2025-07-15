@@ -1,0 +1,160 @@
+@font-face {
+  font-family: 'icons';
+  src:
+    url('fonts/icons.ttf?1752615805566') format('truetype'),
+    url('fonts/icons.woff?1752615805566') format('woff'),
+    url('fonts/icons.svg?1752615805566#icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-actions:before { content: "\ea01"; }
+.icon-alert-alt:before { content: "\ea02"; }
+.icon-alert:before { content: "\ea03"; }
+.icon-anchor:before { content: "\ea04"; }
+.icon-apple:before { content: "\ea05"; }
+.icon-application:before { content: "\ea06"; }
+.icon-apps:before { content: "\ea07"; }
+.icon-archive:before { content: "\ea08"; }
+.icon-backup-restore:before { content: "\ea09"; }
+.icon-backup:before { content: "\ea0a"; }
+.icon-brush-icon:before { content: "\ea0b"; }
+.icon-category-alt:before { content: "\ea0c"; }
+.icon-checkmark:before { content: "\ea0d"; }
+.icon-chevron-beginning:before { content: "\ea0e"; }
+.icon-chevron-down:before { content: "\ea0f"; }
+.icon-chevron-end:before { content: "\ea10"; }
+.icon-chevron-left:before { content: "\ea11"; }
+.icon-chevron-right:before { content: "\ea12"; }
+.icon-chevron-up:before { content: "\ea13"; }
+.icon-circle-plus:before { content: "\ea14"; }
+.icon-cis:before { content: "\ea15"; }
+.icon-close:before { content: "\ea16"; }
+.icon-cluster-management:before { content: "\ea17"; }
+.icon-cluster:before { content: "\ea18"; }
+.icon-code:before { content: "\ea19"; }
+.icon-comment:before { content: "\ea1a"; }
+.icon-commit:before { content: "\ea1b"; }
+.icon-compass:before { content: "\ea1c"; }
+.icon-confirmation-alt:before { content: "\ea1d"; }
+.icon-copy:before { content: "\ea1e"; }
+.icon-dashboard:before { content: "\ea1f"; }
+.icon-dock:before { content: "\ea20"; }
+.icon-docker:before { content: "\ea21"; }
+.icon-document:before { content: "\ea22"; }
+.icon-dot-half:before { content: "\ea23"; }
+.icon-dot-open:before { content: "\ea24"; }
+.icon-dot:before { content: "\ea25"; }
+.icon-download:before { content: "\ea26"; }
+.icon-edit:before { content: "\ea27"; }
+.icon-elemental:before { content: "\ea28"; }
+.icon-endpoints_connected:before { content: "\ea29"; }
+.icon-endpoints_disconnected:before { content: "\ea2a"; }
+.icon-epinio:before { content: "\ea2b"; }
+.icon-error:before { content: "\ea2c"; }
+.icon-explore:before { content: "\ea2d"; }
+.icon-extension:before { content: "\ea2e"; }
+.icon-external-link:before { content: "\ea2f"; }
+.icon-file:before { content: "\ea30"; }
+.icon-filter_alt:before { content: "\ea31"; }
+.icon-flask:before { content: "\ea32"; }
+.icon-fleet:before { content: "\ea33"; }
+.icon-folder:before { content: "\ea34"; }
+.icon-fork:before { content: "\ea35"; }
+.icon-gatekeeper:before { content: "\ea36"; }
+.icon-gear:before { content: "\ea37"; }
+.icon-git:before { content: "\ea38"; }
+.icon-github:before { content: "\ea39"; }
+.icon-gitlab:before { content: "\ea3a"; }
+.icon-globe:before { content: "\ea3b"; }
+.icon-groups:before { content: "\ea3c"; }
+.icon-harvester:before { content: "\ea3d"; }
+.icon-helm:before { content: "\ea3e"; }
+.icon-hide:before { content: "\ea3f"; }
+.icon-history:before { content: "\ea40"; }
+.icon-home:before { content: "\ea41"; }
+.icon-info-circle:before { content: "\ea42"; }
+.icon-info:before { content: "\ea43"; }
+.icon-init_container:before { content: "\ea44"; }
+.icon-istio:before { content: "\ea45"; }
+.icon-keyboard:before { content: "\ea46"; }
+.icon-keyboard_tab:before { content: "\ea47"; }
+.icon-linux:before { content: "\ea48"; }
+.icon-list-flat:before { content: "\ea49"; }
+.icon-list-grouped:before { content: "\ea4a"; }
+.icon-lock:before { content: "\ea4b"; }
+.icon-logging:before { content: "\ea4c"; }
+.icon-longhorn:before { content: "\ea4d"; }
+.icon-marketplace:before { content: "\ea4e"; }
+.icon-menu:before { content: "\ea4f"; }
+.icon-minus:before { content: "\ea50"; }
+.icon-monitoring:before { content: "\ea51"; }
+.icon-more:before { content: "\ea52"; }
+.icon-namespace:before { content: "\ea53"; }
+.icon-notifier:before { content: "\ea54"; }
+.icon-notify-announcement:before { content: "\ea55"; }
+.icon-notify-bell:before { content: "\ea56"; }
+.icon-notify-busy:before { content: "\ea57"; }
+.icon-notify-error:before { content: "\ea58"; }
+.icon-notify-info:before { content: "\ea59"; }
+.icon-notify-tick:before { content: "\ea5a"; }
+.icon-notify-warning:before { content: "\ea5b"; }
+.icon-os-management:before { content: "\ea5c"; }
+.icon-pause:before { content: "\ea5d"; }
+.icon-pin-outlined:before { content: "\ea5e"; }
+.icon-pin:before { content: "\ea5f"; }
+.icon-pipeline:before { content: "\ea60"; }
+.icon-play:before { content: "\ea61"; }
+.icon-plus:before { content: "\ea62"; }
+.icon-pod_security:before { content: "\ea63"; }
+.icon-print:before { content: "\ea64"; }
+.icon-question-mark:before { content: "\ea65"; }
+.icon-rancher-desktop:before { content: "\ea66"; }
+.icon-rancher-observability:before { content: "\ea67"; }
+.icon-refresh-alt:before { content: "\ea68"; }
+.icon-refresh:before { content: "\ea69"; }
+.icon-repository-alt:before { content: "\ea6a"; }
+.icon-repository:before { content: "\ea6b"; }
+.icon-rio:before { content: "\ea6c"; }
+.icon-role-binding:before { content: "\ea6d"; }
+.icon-search:before { content: "\ea6e"; }
+.icon-service:before { content: "\ea6f"; }
+.icon-show:before { content: "\ea70"; }
+.icon-snapshot:before { content: "\ea71"; }
+.icon-sort-down:before { content: "\ea72"; }
+.icon-sort-up:before { content: "\ea73"; }
+.icon-sort:before { content: "\ea74"; }
+.icon-spinner:before { content: "\ea75"; }
+.icon-stackstate:before { content: "\ea76"; }
+.icon-star-open:before { content: "\ea77"; }
+.icon-star:before { content: "\ea78"; }
+.icon-storage:before { content: "\ea79"; }
+.icon-tag-alt:before { content: "\ea7a"; }
+.icon-terminal:before { content: "\ea7b"; }
+.icon-trash:before { content: "\ea7c"; }
+.icon-unlock:before { content: "\ea7d"; }
+.icon-upgrade-alt:before { content: "\ea7e"; }
+.icon-upload:before { content: "\ea7f"; }
+.icon-user-check:before { content: "\ea80"; }
+.icon-user-xmark:before { content: "\ea81"; }
+.icon-user:before { content: "\ea82"; }
+.icon-version-alt:before { content: "\ea83"; }
+.icon-warning:before { content: "\ea84"; }
+.icon-windows:before { content: "\ea85"; }
+
