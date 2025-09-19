@@ -4,6 +4,7 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
+| 2.0.37  | Added downgrade-alt icon <img src="./svg/downgrade-alt.svg"/>                   |
 | 2.0.36  | Fixed alert-alt icon <img src="./svg/alert-alt.svg"/>                           |
 |         | Fixed category-alt icon <img src="./svg/category-alt.svg"/>                     |
 |         | Fixed confirmation-alt icon <img src="./svg/confirmation-alt.svg"/>             |
