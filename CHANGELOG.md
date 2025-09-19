@@ -4,6 +4,7 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
+| 2.0.39  | Added downgrade-alt icon <img src="./svg/downgrade-alt.svg"/>                   |
 | 2.0.38  | Added document icon <img src="./svg/document.svg"/>                             |
 | 2.0.37  | Fixed notify-announcement icon <img src="./svg/notify-announcement.svg"/>       |
 |         | Fixed notify-bell icon <img src="./svg/notify-bell.svg"/>                       |
