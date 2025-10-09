@@ -4,6 +4,10 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
+| 2.0.40  | Added quick-action icon <img src="./svg/quick-action.svg"/>                     |
+|         | Added send icon <img src="./svg/send.svg"/>                                     |
+|         | Added sources icon <img src="./svg/sources.svg"/>                               |
+|         | Added thinking-process icon <img src="./svg/thinking-process.svg"/>             |
 | 2.0.39  | Added downgrade-alt icon <img src="./svg/downgrade-alt.svg"/>                   |
 | 2.0.38  | Added document icon <img src="./svg/document.svg"/>                             |
 | 2.0.37  | Fixed notify-announcement icon <img src="./svg/notify-announcement.svg"/>       |
