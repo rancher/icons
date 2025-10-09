@@ -4,6 +4,10 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
+| 2.0.41  | Fixed quick-action icon <img src="./svg/quick-action.svg"/>                     |
+|         | Fixed send icon <img src="./svg/send.svg"/>                                     |
+|         | Fixed sources icon <img src="./svg/sources.svg"/>                               |
+|         | Fixed thinking-process icon <img src="./svg/thinking-process.svg"/>             |
 | 2.0.40  | Added quick-action icon <img src="./svg/quick-action.svg"/>                     |
 |         | Added send icon <img src="./svg/send.svg"/>                                     |
 |         | Added sources icon <img src="./svg/sources.svg"/>                               |
