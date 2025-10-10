@@ -4,6 +4,7 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
+| 2.0.45  | Fixed ollama icon <img src="./svg/ollama.svg"/>                                 |
 | 2.0.44  | Added ollama icon <img src="./svg/ollama.svg"/>                                 |
 |         | Added openai icon <img src="./svg/openai.svg"/>                                 |
 |         | Added gemini icon <img src="./svg/gemini.svg"/>                                 |
