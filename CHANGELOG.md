@@ -4,7 +4,10 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
-| 2.0.43  | Fixed quick-action icon <img src="./svg/quick-action.svg"/>
+| 2.0.44  | Added ollama icon <img src="./svg/ollama.svg"/>                                 |
+|         | Added openai icon <img src="./svg/openai.svg"/>                                 |
+|         | Added gemini icon <img src="./svg/gemini.svg"/>                                 |
+| 2.0.43  | Fixed quick-action icon <img src="./svg/quick-action.svg"/>                     |
 |         | Fixed send icon <img src="./svg/send.svg"/>                                     |
 |         | Fixed sources icon <img src="./svg/sources.svg"/>                               |
 |         | Fixed thinking-process icon <img src="./svg/thinking-process.svg"/>             |
