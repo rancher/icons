@@ -4,6 +4,7 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
+| 2.0.48  | Fixed ollama icon <img src="./svg/ollama.svg"/>                                 |
 | 2.0.47  | Fixed ollama icon <img src="./svg/ollama.svg"/>                                 |
 | 2.0.46  | Fixed ollama icon <img src="./svg/ollama.svg"/>                                 |
 | 2.0.45  | Fixed ollama icon <img src="./svg/ollama.svg"/>                                 |
