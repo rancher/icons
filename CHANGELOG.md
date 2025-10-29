@@ -4,6 +4,7 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
+| 2.0.53  | Fixed ai icon <img src="./svg/ai.svg"/>                                         |
 | 2.0.52  | Fixed ai icon <img src="./svg/ai.svg"/>                                         |
 | 2.0.51  | Fixed ai icon <img src="./svg/ai.svg"/>                                         |
 | 2.0.50  | Added ai icon <img src="./svg/ai.svg"/>                                         |
