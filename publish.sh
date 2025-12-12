@@ -62,26 +62,24 @@ else
   pushd ${UPLOAD}
 fi
 
-# Publish to npm if a node auth token is set in the environment
-if [ -n "${NODE_AUTH_TOKEN}" ]; then
-  echo "Publishing @rancher/icons to npm"
+# Publish to npm 
+echo "Publishing @rancher/icons to npm"
 
-  pwd
-  pushd ${DIST}
-  pwd
-  ls -al
-  
-  PUBLISH_ARGS="--no-git-tag-version --access public"
+pwd
+pushd ${DIST}
+pwd
+ls -al
 
-  yarn publish . --new-version ${VERSION} ${PUBLISH_ARGS}
-  RET=$?
+PUBLISH_ARGS="--no-git-tag-version --access public"
 
-  popd
+yarn publish . --new-version ${VERSION} ${PUBLISH_ARGS}
+RET=$?
 
-  if [ $RET -ne 0 ]; then
-    echo "Error publishing @rancher/icons package to npm"
-    exit $RET
-  fi
+popd
+
+if [ $RET -ne 0 ]; then
+  echo "Error publishing @rancher/icons package to npm"
+  exit $RET
 fi
 
 # Update the dist branch - this is the latest build of the icon font
