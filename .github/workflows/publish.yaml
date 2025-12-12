@@ -6,6 +6,10 @@ on:
     paths:
     - 'package.json'
 
+permissions:
+  id-token: write
+  contents: read
+
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -14,12 +18,15 @@ jobs:
     - name: Use Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: '14.x'
+        node-version: '20'
         registry-url: 'https://registry.npmjs.org'
         scope: '@rancher'        
+
+    # Ensure npm 11.5.1 or later is installed
+    - name: Update npm
+      run: npm install -g npm@latest
+
     - name: script
-      env:
-        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}        
       run: |
         git config --global user.name 'Rancher Icons'
         git config --global user.email 'noreply@rancher.com'
