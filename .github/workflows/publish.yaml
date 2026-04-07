@@ -23,5 +23,5 @@ jobs:
       run: |
         git config --global user.name 'Rancher Icons'
         git config --global user.email 'noreply@rancher.com'
-        yarn install
+        yarn install --frozen-lockfile
         yarn run upload -i
