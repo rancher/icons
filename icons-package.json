@@ -2,12 +2,10 @@
   "name": "@rancher/icons",
   "version": "VERSION",
   "description": "Rancher icon font",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rancher/icons.git"
-  },
+  "repository": "https://github.com/rancher/icons",
   "author": "SUSE",
   "license": "Apache-2.0",
+  "private": false,
   "bugs": {
     "url": "https://github.com/rancher/dashboard/issues"
   },
