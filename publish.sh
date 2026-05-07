@@ -66,14 +66,16 @@ fi
 if [ -n "${NODE_AUTH_TOKEN}" ]; then
   echo "Publishing @rancher/icons to npm"
 
+  # Hardcode the registry to match the shell publish pattern
+  NPM_REGISTRY="https://registry.npmjs.org"
+  PUBLISH_ARGS="--no-git-tag-version --access public --registry $NPM_REGISTRY"
+
   pwd
   pushd ${DIST}
   pwd
   ls -al
-  
-  PUBLISH_ARGS="--no-git-tag-version --access public"
 
-  yarn publish . --new-version ${VERSION} ${PUBLISH_ARGS}
+  npm publish . ${PUBLISH_ARGS}
   RET=$?
 
   popd
