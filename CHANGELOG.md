@@ -4,6 +4,7 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
+| 2.0.60  | Update github publishing credentials                                            |
 | 2.0.59  | Configure trusted publishing                                                    |
 | 2.0.58  | Update publish.sh to use npm, update package config                             |
 | 2.0.57  | Adds icons for vm migration tool in Harvester - disk, network, data, arrow      |
