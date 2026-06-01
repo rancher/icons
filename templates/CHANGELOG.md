@@ -4,7 +4,8 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
-| 2.0.61  | Update Edit icon <img src="./svg/edit.svg"/>                                    |
+| 2.0.61  | Update several icons:                                                           |
+|         | edit, actions, chevrons up-left-right-down, copy, external-link, trash          |
 | 2.0.60  | Update github publishing credentials                                            |
 | 2.0.59  | Configure trusted publishing                                                    |
 | 2.0.58  | Update publish.sh to use npm, update package config                             |
