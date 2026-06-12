@@ -4,6 +4,7 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
+| 2.0.62  | Added cloud-plus icon <img src="./svg/cloud-plus.svg"/>                         |
 | 2.0.61  | Update Edit icon <img src="./svg/edit.svg"/>                                    |
 | 2.0.60  | Update github publishing credentials                                            |
 | 2.0.59  | Configure trusted publishing                                                    |
