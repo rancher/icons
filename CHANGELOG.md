@@ -4,6 +4,10 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
+| 2.0.64  | Updated show icon <img src="./svg/show.svg"/>                                   |
+|         | Updated hide icon <img src="./svg/hide.svg"/>                                   |
+|         | Updated lock icon <img src="./svg/lock.svg"/>                                   |
+|         | Updated unlock icon <img src="./svg/unlock.svg"/>                               |
 | 2.0.63  | Added collapse-all icon <img src="./svg/collapse-all.svg"/>                     |
 | 2.0.62  | Added cloud-plus icon <img src="./svg/cloud-plus.svg"/>                         |
 | 2.0.61  | Update Edit icon <img src="./svg/edit.svg"/>                                    |
