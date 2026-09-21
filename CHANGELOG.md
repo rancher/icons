@@ -4,6 +4,8 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
+| 2.0.64  | Added mouse-on icon <img src="./svg/mouse-on.svg"/>                             |
+|         | Added mouse-off icon <img src="./svg/mouse-off.svg"/>                           |
 | 2.0.63  | Added collapse-all icon <img src="./svg/collapse-all.svg"/>                     |
 | 2.0.62  | Added cloud-plus icon <img src="./svg/cloud-plus.svg"/>                         |
 | 2.0.61  | Update Edit icon <img src="./svg/edit.svg"/>                                    |
