@@ -4,6 +4,7 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
+| 2.0.65  | Added stop icon <img src="./svg/stop.svg"/>                                     |
 | 2.0.64  | Added mouse-on icon <img src="./svg/mouse-on.svg"/>                             |
 |         | Added mouse-off icon <img src="./svg/mouse-off.svg"/>                           |
 | 2.0.63  | Added collapse-all icon <img src="./svg/collapse-all.svg"/>                     |
