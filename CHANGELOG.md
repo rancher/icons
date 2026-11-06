@@ -4,6 +4,10 @@ Tracks icons added/removed.
 
 | Version | Note                                                                            |
 | ------- | ------------------------------------------------------------------------------- |
+| 2.0.67  | Fixed mouse-on icon <img src="./svg/mouse-on.svg"/>                             |
+|         | Fixed mouse-off icon <img src="./svg/mouse-off.svg"/>                           |
+|         | Fixed notify-bell icon <img src="./svg/notify-bell.svg"/>                       |
+|         | Added notify-bell-off icon <img src="./svg/notify-bell-off.svg"/>               |
 | 2.0.66  | Added fleet-alt <img src="./svg/fleet-alt.svg"/>                                |
 | 2.0.65  | Added stop icon <img src="./svg/stop.svg"/>                                     |
 | 2.0.64  | Added mouse-on icon <img src="./svg/mouse-on.svg"/>                             |
